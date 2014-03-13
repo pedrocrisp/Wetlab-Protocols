@@ -27,20 +27,19 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 
 ### Wash Dynabeads:
 - Wash dynabeads in 100ul of bind buffer, then store in 100 ul bind buffer for re-use to purify the 5’ (ensure the beads are re-used for the same sample the second time).
- 
+
 ## 5’ adapter ligation
 															
-	|					|stock			|1x		|1x (ul)	|master (ul) |
-	|:------------------|:--------------:|:-----:|:--------:|------------|
+	|					|stock			|1x		|1x (ul)	|master (ul)|
+	|:------------------|:-------------:|:-----:|:---------:|-----------|
 	|polyA RNA			|				|		|   15	 	|	-- 		|
 	|5' RNA adapter 	|	200uM		| 10uM	|	1.25	| 			| 
 	|RNA ligase buffer	|10x			| 1x	| 2.5		|			|	 
 	|ATP				|	10mM		|	1uM	|	2.5	 	|			|
-	|Neb T4 RNA ligase I |	10,000 U/ml	|	15U	 |	1.5	 	|			|
+	|Neb T4 RNA ligase I|	10,000 U/ml	|	15U	|	1.5	 	|			|
 	|RNase OUT			|40u/uL			| 20U	|	0.5	 	|			|
 	|dH2O	 	 		|				|		|	1.75	|			| 
- 	|					|				|		|			|	[11]	|
- 	| total				|				|		|	25	 	|			|
+ 	| total				|				|		|	25	 	|	[11]	|
 
 - Incubate @ 37oC for 2hr 
 - Remove from 37oC and add 75ul of DEPC-treated water
@@ -58,15 +57,17 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 - Place the tube on the magnetic stand until the solution is clear and remove the supernatant. 
 - Remove the tube from the stand and wash the mRNA- bead complex TWICE with 200ul Washing Buffer B. Remove all the supernatant between each washing step with the help of the magnetic stand. 
 - Elute the mRNA from the beads by adding 28.5ul of Elution Buffer (10mM Tris-HCl, pH 7.5). 
-- Place tube at 65oC for 2 min and then place immediately on the magnetic stand. Transfer 27.5 of the eluted mRNA to a new tube. 
- 
+- Place tube at 65oC for 2 min and then place immediately on the magnetic stand. Transfer 27.5 of the eluted mRNA to a new tube.  
+
 ## Reverse transcription
 
 ### Denature RNA
 
-	5’-ligated RNA				27.5 ul
-	RT primer (100 um)			2 ul     
-	Total						29.5 ul
+	|5’-ligated RNA		|	27.5 ul		|
+	|RT primer (100 um)	|	2 ul		|
+	|:------------------|:-------------:|
+	|Total			 	|	29.5 ul		| 
+						
 
 - 65oC for 5 mins, cool at RT
 
