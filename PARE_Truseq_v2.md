@@ -30,16 +30,16 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 
 ## 5’ adapter ligation
 															
-	|					|stock			|1x		|1x (ul)	|master (ul)|
-	|:------------------|:-------------:|:-----:|:---------:|-----------|
-	|polyA RNA			|				|		|   15	 	|	-- 		|
-	|5' RNA adapter 	|	200uM		| 10uM	|	1.25	| 			| 
-	|RNA ligase buffer	|10x			| 1x	| 2.5		|			|	 
-	|ATP				|	10mM		|	1uM	|	2.5	 	|			|
-	|Neb T4 RNA ligase I|	10,000 U/ml	|	15U	|	1.5	 	|			|
-	|RNase OUT			|40u/uL			| 20U	|	0.5	 	|			|
-	|dH2O	 	 		|				|		|	1.75	|			| 
- 	| total				|				|		|	25	 	|	[11]	|
+|					|stock			|1x		|1x (ul)	|master (ul)|
+|:------------------|:-------------:|:-----:|:---------:|-----------|
+|polyA RNA			|				|		|   15	 	|	-- 		|
+|5' RNA adapter 	|	200uM		| 10uM	|	1.25	| 			| 
+|RNA ligase buffer	|10x			| 1x	| 2.5		|			|	 
+|ATP				|	10mM		|	1uM	|	2.5	 	|			|
+|Neb T4 RNA ligase I|	10,000 U/ml	|	15U	|	1.5	 	|			|
+|RNase OUT			|40u/uL			| 20U	|	0.5	 	|			|
+|dH2O	 	 		|				|		|	1.75	|			| 
+| total				|				|		|	25	 	|	[11]	|
 
 - Incubate @ 37oC for 2hr 
 - Remove from 37oC and add 75ul of DEPC-treated water
