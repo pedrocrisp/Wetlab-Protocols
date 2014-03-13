@@ -73,15 +73,16 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 
 ## 1st strand synthesis
 
-Final	1x (ul)	___x
-RT RNA		29.5	--
-5 x SSIII 
-1st strand Buffer	1x	10	
-dNTPs (10mM each)	400 uM	2	
-0.1 M DTT	5 mM	2.5	--
-RNase Out (40U/ul)	80U	2	
-SSIII		4	
-		50 ul	[10]
+|---|Final|1x (ul)| __x|
+|:--|:-:|:-:|:-:|
+|RT RNA|	|29.5|--|
+|5 x SSIII 1st strand Buffer|1x|10|	|
+|dNTPs (10mM each)|400 uM|2|	|
+|0.1 M DTT|5 mM|2.5|	|
+|RNase Out (40U/ul)|80U	|	2|	|
+|SSIII	|	|4	|	|
+|	|	|	50 ul|[10]	|
+
 
 - 50oC for 3 hours
 - 72 oC for 15 mins
