@@ -63,17 +63,17 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 
 ### Denature RNA
 
-	|5’-ligated RNA		|	27.5 ul		|
-	|RT primer (100 um)	|	2 ul		|
-	|:------------------|:-------------:|
-	|Total			 	|	29.5 ul		| 
+|5’-ligated RNA		|	27.5 ul		|
+|RT primer (100 um)	|	2 ul		|
+|:------------------|:-------------:|
+|Total			 	|	29.5 ul		| 
 						
 
 - 65oC for 5 mins, cool at RT
 
 ## 1st strand synthesis
 
-	Final	1x (ul)	___x
+Final	1x (ul)	___x
 RT RNA		29.5	--
 5 x SSIII 
 1st strand Buffer	1x	10	
