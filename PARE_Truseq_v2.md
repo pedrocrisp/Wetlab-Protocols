@@ -40,7 +40,6 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 	|RNase OUT			|40u/uL			| 20U	|	0.5	 	|			|
 	|dH2O	 	 		|				|		|	1.75	|			| 
  	|					|				|		|			|	[11]	|
- 	|:------------------|:--------------:|:-----:|:--------:|------------|
  	| total				|				|		|	25	 	|			|
 
 - Incubate @ 37oC for 2hr 
