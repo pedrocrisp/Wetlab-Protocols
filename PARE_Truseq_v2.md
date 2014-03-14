@@ -73,7 +73,7 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 
 ## 1st strand synthesis
 
-|---|Final|1x (ul)| __x|
+|		|Final|1x (ul)| __x|
 |:--|:-:|:-:|:-:|
 |RT RNA|	|29.5|--|
 |5 x SSIII 1st strand Buffer|1x|10|	|
@@ -88,13 +88,27 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 - 72 oC for 15 mins
 - 4 oC hold
 
-****Stopping point – store at -20 oC ****
- 
-PCRs
-Run a long QC PCR and then a short PCR to amplify the template for MmeI.
-QC PCR
+	Stopping point – store at -20 oC
 
-	Final	1x (ul)	___x
+##PCRs
+Run a long QC PCR and then a short PCR to amplify the template for MmeI.
+
+###QC PCR
+
+|				|Final		|1x (ul)	| __x		|
+|:--------------|:---------:|:---------:|:---------:|
+|1st strand cDNA|			|	5		|	--		|
+|				|			|			|			|
+|				|			|			|			|
+|				|			|			|			|
+|				|			|			|			|
+|				|			|			|			|
+|				|			|			|			|
+|				|			|			|			|
+|				|			|			|			|
+|				|			|			|			|
+
+||	Final	1x (ul)	___x
 1st strand cDNA		5	--
 100% DMSO	3 %	1.5	
 5x GC buffer	1x	10	
