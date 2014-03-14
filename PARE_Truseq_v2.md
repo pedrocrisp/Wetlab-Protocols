@@ -223,10 +223,8 @@ Samples are not yet indexed therefore preferably leave spaces between samples, a
 |40% acrylamide (acryl: bis 1:19)	| 9.0 ml |	15.0 ml |
 |10 x TBE	1.5 ml	2.5 ml
 |dH2O	up to 30ml	up to 50ml
-*Optional 0.22uM filter, add then quickly pour:*		
-
+|*Optional 0.22uM filter, add then quickly pour:* | | |		
 |10% APS (100mg/ml H20)	|210ul	|350ul|
-|:----------------------|:------|:---|
 |TEMED|	21|	35ul|
 
 
@@ -264,13 +262,13 @@ Precipitate and recover DNA:
 - Put 100% ethanol in the -80oC to 10 mins if you forgot yesterday…
 - The following day, add gel debris slurry to Spin-X 0.45 uM spin filter, and spin 2 mins max speed 4oC
 - Keep flow-through and add:
-..- 2 ul Glycoblue
-..- 46 ul NaOAc (4M)
-..- 1400 ul  EtOH (pre-chilled)
+..* 2 ul Glycoblue
+..* 46 ul NaOAc (4M)
+..* 1400 ul  EtOH (pre-chilled)
 - Invert 11 times
 - Spin 20,000 RCF x 20 mins at 4oC, then aspirate supernatant 
 - Wash with 500ul of 70% ethanol at RT, spin 2 mins 7,000 RCF and aspirate ethanol
-..- Pulse spin again and aspirate with fine tip if necessary to remove trace ethanol 
+..* Pulse spin again and aspirate with fine tip if necessary to remove trace ethanol 
 - Dry for 5-10 mins at 37oC
 - Re-suspend in 31ul of 10mM Tris pH 8.5
 
