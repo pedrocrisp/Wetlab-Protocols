@@ -95,30 +95,17 @@ Run a long QC PCR and then a short PCR to amplify the template for MmeI.
 
 ###QC PCR
 
-|				|Final		|1x (ul)	| __x		|
+|				|Final			|1x (ul)		| __x			|
 |:--------------|:---------:|:---------:|:---------:|
-|1st strand cDNA|			|	5		|	--		|
-|				|			|			|			|
-|				|			|			|			|
-|				|			|			|			|
-|				|			|			|			|
-|				|			|			|			|
-|				|			|			|			|
-|				|			|			|			|
-|				|			|			|			|
-|				|			|			|			|
-
-||	Final	1x (ul)	___x
-1st strand cDNA		5	--
-100% DMSO	3 %	1.5	
-5x GC buffer	1x	10	
-dNTPs (10mM each)	250 uM	1.25	
-5’ short primer (10uM)	0.4 uM*	2.0	
-3’ short primer 
-(10 uM)	0.4 uM*	2.0	
-dH2O		27.25	
-Phusion	2 unit	1	
-		50 ul	[45]
+|1st strand cDNA		|			|	5		|	--		|
+|100% DMSO			|3 %			|1.5			|			|
+|5x GC buffer			|1x			|10			|			|
+|dNTPs (10mM each)		|250 uM			|1.25			|			|
+|5’ short primer (10uM)		|0.4 uM*		|2.0			|			|
+|3’ short primer		|0.4 uM*		|2.0			|			|
+|dH2O				|			|27.25			|			|
+|Phusion			|2 units		|1			|			|
+|				|			|50 ul			|[45]			|
 
 PCR cycling
 	oC	min
@@ -133,19 +120,20 @@ PCR cycling
 Run 2 ul on GXII HS-DNA chip. Or on a 1.5% agarose gel.  
 Should get a smear with distinct bands under 1 kb and above/around 3kb.
  
-Short PCR
+###Short PCR
 
-	Final	1x (ul)	___x
-1st strand cDNA		20	--
-100% DMSO	3 %	1.5	
-5x GC buffer	1x	10	
-dNTPs (10mM each)	250 uM	1.25	
-5’ short primer (10uM)	0.4 uM*	2.0	
-3’ short primer 
-(10 uM)	0.4 uM*	2.0	
-dH2O		12.25	
-Phusion	2 unit	1	
-		50 ul	[30]
+|				|Final			|1x (ul)		| __x			|
+|:--------------|:---------:|:---------:|:---------:|
+|1st strand cDNA		|			|	20		|	--		|
+|100% DMSO			|3 %			|1.5			|			|
+|5x GC buffer			|1x			|10			|			|
+|dNTPs (10mM each)		|250 uM			|1.25			|			|
+|5’ short primer (10uM)		|0.4 uM*		|2.0			|			|
+|3’ short primer		|0.4 uM*		|2.0			|			|
+|dH2O				|			|12.25			|			|
+|Phusion			|2 units		|1			|			|
+|				|			|50 ul			|[30]			|
+
 PCR cycling
 	oC	min
 1. 	98	1:00
@@ -156,11 +144,12 @@ PCR cycling
 6. 	72	7:00
 7. 	4	hold
 
-AMPure XP (1.8x) size selecton of cDNA reaction:
+### AMPure XP (1.8x) size selecton of cDNA reaction:
 
 Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or plate:
-AMPure XP bead solution      90 μl
-cDNA Reaction               	 50 μl
+
+|AMPure XP bead solution     |90 μl|
+|cDNA Reaction               |50 μl|
 
 - Vigorously vortex tube and incubate at room temperature for 20 minutes.
 - Place tube in magnetic stand for 5 minutes or until solution clears, to capture the beads. After the suspension is clear, remove and discard supernatant. Do not disturb bead pellet.
@@ -172,64 +161,67 @@ cDNA Reaction               	 50 μl
 - Incubate for 10 minutes.
 - Place the tube in the magnetic stand for at least 2 minute to allow complete capture of the beads. When suspension is clear, transfer 15.8 ul of the library-containing supernatant to a new tube.
 
-****Stopping point – store at -20 oC ****
+	Stopping point – store at -20 oC
  
-Mme1 Digestion 
+## Mme1 Digestion 
 
-Purified PCR Product 	15.8ul
-10X NEB4 Buffer		      2ul 
-10X SAM (32mM) 		   0.2ul
-Mme1 (2u/ul) 		      2ul  
-total 				   20ul  
+|Purified PCR Product 	|15.8ul|
+|10X NEB4 Buffer		      |2ul |
+|10X SAM (32mM) 		   |0.2ul|
+|Mme1 (2u/ul) 		      |2ul  |
+|TOTAL 				  | 20ul | 
 
 - 37οC (2hr)
 - Remove from 37 οC, heat kill at 65 οC for 10min
 - Let cool at RT (do NOT place on ice); 
 - Prepare Duplex Adapter during heat kill step. 
-Ligation of 3’-double-strand DNA Adapter
+
+##Ligation of 3’-double-strand DNA Adapter
+
 Make freshly prepared duplex adaptor by annealing 10% more oligo than needed, eg for 9 samples use 10ul of each:
 
-dsDNA_2_Top 	1ul 
-dsDNA_2_Bottom	1ul
-TOTAL 		2ul
+|dsDNA_2_Top |	1ul |
+|dsDNA_2_Bottom	|1ul|
+|TOTAL 	|	2ul|
 
 - 100oC(5min); 
 - Slow cool down to RT by stepping temp down 5oC every 30sec (0.1oC /s to 25oC).  (~18min cycle)
 - Keep at RT. 
-Set up duplex ligation:
-Mme1 digested PCR 					20ul 
-Annealed Duplex Adaptor (100uM) 		2ul 
-10X T4 DNA Ligase Buffer (w10mM ATP) 		3ul 
-T4 DNA Ligase (400U/ul)** 				0.5ul 
-dH2O 							4.5ul  
-TOTAL 						30ul 
+
+##Set up duplex ligation:
+
+|Mme1 digested PCR |					20ul |
+|Annealed Duplex Adaptor (100uM) |		2ul |
+|10X T4 DNA Ligase Buffer (w10mM ATP) 	|	3ul |
+|T4 DNA Ligase (400U/ul)** 	|			0.5ul |
+|dH2O 	|						4.5ul  |
+|TOTAL 	|					30ul |
 
 **Use the concentrated 2,000U/ul enzyme if doing quick ligation in quick ligation buffer…
 
 Ligate at 16oC overnight 
 
-****Stopping point – store at -20 oC ****
+	Stopping point – store at -20 oC
  
  
-PAGE purify ds-DNA adapter ligation
+## PAGE purify ds-DNA adapter ligation
 
-The dsDNA adapter firstly can form dimers and then the ssDNA adapters once denatured can prime the final PCR if not removed and result in spurious adapter dimers dominating the final library.  This happened when using the dsDNA adapter that had the phos- group on he wrong end, so it probably has to be removed, but have to check. Will do this on this prep.
+The dsDNA adapter firstly can form dimers and then the ssDNA adapters once denatured can prime the final PCR if not removed and result in spurious adapter dimers dominating the final library. Using an adapter without the 5'phosphate may reduce dimer formation; however, this may also impact ligation efficiency for the desired insert.
 
 Samples are not yet indexed therefore preferably leave spaces between samples, and run sample groups of different gels (ie only replicates on the same gel).
 
-12 % native PAGE (0.5x TBE)
+### 12 % native PAGE (0.5x TBE)
 - 1.5ml spacers (or 1.0mm and will have leftovers), 2 gels
 
-	2x 1.5mm gels
-(4x 1.0 mm gels)	4 x 1.5 mm gels
-40% acrylamide
-(acryl: bis 1:19)	9.0 ml	15.0 ml
-10 x TBE	1.5 ml	2.5 ml
-dH2O	up to 30ml	up to 50ml
+|	|2x 1.5mm gels (4x 1.0 mm gels)	|4 x 1.5 mm gels|
+|:-------|:--------------------------:|:-------------------:|
+|40% acrylamide (acryl: bis 1:19)	| 9.0 ml |	15.0 ml |
+|10 x TBE	1.5 ml	2.5 ml
+|dH2O	up to 30ml	up to 50ml
 Optional 0.22uM filter, add then quickly pour:		
-10% APS
-(100mg/ml H20)	210ul	350ul
-TEMED	21	35ul
+
+|10% APS (100mg/ml H20)	|210ul	|350ul|
+|TEMED|	21|	35ul|
 
 
 - Add 5x Biorad loading dye (GLB) to samples, max volume is ~ ul(?) for 1.5mm gel
