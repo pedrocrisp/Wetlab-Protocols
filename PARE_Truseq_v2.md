@@ -137,9 +137,11 @@ Should get a smear with distinct bands under 1 kb and above/around 3kb.
 PCR cycling
 
 |step	|	1	|	2	|	3	|	4	|	5	|	6	|	7|
-|:-	|:-		|:-		|:-		|:-		|:-		|:-		|:-	|
-|temp	|98		|98		|58		|72		|*Go to 2 six times*|	72	|4
+|:-|:-	|:-|:-|:-|:-|:-	:-|
+|temp	|98		|98		|58		|72		|*Go to 2 six times*|	72	|4 |
 |min	|1:00		|:30		|:30		|:30		|		|	7:00	|hold	|
+
+
 	oC	min
 1. 	98	1:00
 2.	98	:30
