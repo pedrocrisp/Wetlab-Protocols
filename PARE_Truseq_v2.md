@@ -63,6 +63,8 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 
 ### Denature RNA
 
+|Reagent			|volume	|
+|:------------------------------|:------|
 |5’-ligated RNA		|	27.5 ul		|
 |:------------------|:-------------:|
 |RT primer (100 um)	|	2 ul		|
@@ -108,14 +110,11 @@ Run a long QC PCR and then a short PCR to amplify the template for MmeI.
 |				|			|50 ul			|[45]			|
 
 PCR cycling
-	oC	min
-1. 	98	1:00
-2.	98	:30
-3.	58	:30
-4.	72	5:00
-5.  Go to 2. 34 times
-6. 	72	7:00
-7. 	4	hold
+
+|step	|	1	|	2	|	3	|	4	|	5	|	6	|7	|
+|:------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:------|
+|temp	|98		|98		|58		|72		|*Go to 24 six times*|	72	|4 	|
+|min	|1:00		|0:30		|0:30		|0:30		|		|	7:00	|hold	|
 
 Run 2 ul on GXII HS-DNA chip. Or on a 1.5% agarose gel.  
 Should get a smear with distinct bands under 1 kb and above/around 3kb.
@@ -143,21 +142,14 @@ PCR cycling
 |min	|1:00		|0:30		|0:30		|0:30		|		|	7:00	|hold	|
 
 
-	oC	min
-1. 	98	1:00
-2.	98	:30
-3.	58	:30
-4.	72	5:00
-5.  Go to 2. six times
-6. 	72	7:00
-7. 	4	hold
-
 ### AMPure XP (1.8x) size selecton of cDNA reaction:
 
 Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or plate:
 
-|AMPure XP bead solution     |90 μl|
-|cDNA Reaction               |50 μl|
+|Reagent			|volume	|
+|:------------------------------|:------|
+|AMPure XP bead solution	|90 μl	|
+|cDNA Reaction          	|50 μl	|
 
 - Vigorously vortex tube and incubate at room temperature for 20 minutes.
 - Place tube in magnetic stand for 5 minutes or until solution clears, to capture the beads. After the suspension is clear, remove and discard supernatant. Do not disturb bead pellet.
@@ -169,10 +161,13 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 - Incubate for 10 minutes.
 - Place the tube in the magnetic stand for at least 2 minute to allow complete capture of the beads. When suspension is clear, transfer 15.8 ul of the library-containing supernatant to a new tube.
 
+
 	Stopping point – store at -20 oC
  
 ## Mme1 Digestion 
 
+|Reagent			|volume	|
+|:------------------------------|:------|
 |Purified PCR Product 	|15.8ul|
 |10X NEB4 Buffer		      |2ul |
 |10X SAM (32mM) 		   |0.2ul|
@@ -188,6 +183,8 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 
 Make freshly prepared duplex adaptor by annealing 10% more oligo than needed, eg for 9 samples use 10ul of each:
 
+|Reagent			|volume	|
+|:------------------------------|:------|
 |dsDNA_2_Top |	1ul |
 |dsDNA_2_Bottom	|1ul|
 |TOTAL 	|	2ul|
@@ -207,7 +204,7 @@ Make freshly prepared duplex adaptor by annealing 10% more oligo than needed, eg
 
 **Use the concentrated 2,000U/ul enzyme if doing quick ligation in quick ligation buffer…
 
-Ligate at 16oC overnight 
+- Ligate at 16oC overnight 
 
 	Stopping point – store at -20 oC
  
@@ -226,32 +223,40 @@ Samples are not yet indexed therefore preferably leave spaces between samples, a
 |40% acrylamide (acryl: bis 1:19)	| 9.0 ml |	15.0 ml |
 |10 x TBE	1.5 ml	2.5 ml
 |dH2O	up to 30ml	up to 50ml
-Optional 0.22uM filter, add then quickly pour:		
+*Optional 0.22uM filter, add then quickly pour:*		
 
 |10% APS (100mg/ml H20)	|210ul	|350ul|
+|:----------------------|:------|:---|
 |TEMED|	21|	35ul|
 
 
-- Add 5x Biorad loading dye (GLB) to samples, max volume is ~ ul(?) for 1.5mm gel
+- Add 5x Biorad loading dye (GLB) to samples, max volume is 25 ul for 1.0mm gel
 
-Run Gel:
+####Run Gel:
+
 - 180 V
 - ~50 mins until bromo blue just above bottom of gel
 - Add 73 bp marker (5 ul) (ELIP2 is PCR product) Not needed really
 - Add 0.25ug Invitrogen 10bp ladder (0.25ul into 5 ul H2O + 2ul GLB) 
-Stain Gel:
+
+####Stain Gel:
+
 - Stain 5 mins in 100ml H2O + 10ul EtBr (final – 1mg/ml), rinse twice in MQ H2O
 Cut bands:
 - Align sterile razor with the 60 and 70 bp markers and cut to capture the band corresponding to the ligation product (63bp); avoid adapter dimers (44bp) and place slices in shredder tubes.
 
 
-Gel Purification of ligation:
-Assemble gel shredder tubes: 
+###Gel Purification of ligation:
+
+####Assemble gel shredder tubes: 
+
 - Make 3 small holes in the bottom of a 0.5ml tube with a fine gauge syringe (eg 25 G - 0.5mm), large gauges with make it hard to pipette gel debris later.
 - Place shredder in 2ml low bind tube (2ml for better mixing of debris)
-Shred:
+
+####Shred:
+
 - Add gel slice and spin at max rcf for 2 mins, 
-o	After spin small debris that get stuck in shredder can be tapped out into collection tube.
+..-After spin small debris that get stuck in shredder can be tapped out into collection tube.
 - Add 450 ul DEPC H2O
 - Elute DNA overnight at 4oC by rotating on the inteli mixer F5 60 RPM
 - Pre-chill 100% ethanol at -20oC for next day
@@ -259,18 +264,20 @@ Precipitate and recover DNA:
 - Put 100% ethanol in the -80oC to 10 mins if you forgot yesterday…
 - The following day, add gel debris slurry to Spin-X 0.45 uM spin filter, and spin 2 mins max speed 4oC
 - Keep flow-through and add:
-o	2 ul Glycoblue
-o	46 ul NaOAc (4M)
-o	1400 ul  EtOH (pre-chilled)
+..- 2 ul Glycoblue
+..- 46 ul NaOAc (4M)
+..- 1400 ul  EtOH (pre-chilled)
 - Invert 11 times
 - Spin 20,000 RCF x 20 mins at 4oC, then aspirate supernatant 
 - Wash with 500ul of 70% ethanol at RT, spin 2 mins 7,000 RCF and aspirate ethanol
-o	Pulse spin again and aspirate with fine tip if necessary to remove trace ethanol 
+..- Pulse spin again and aspirate with fine tip if necessary to remove trace ethanol 
 - Dry for 5-10 mins at 37oC
 - Re-suspend in 31ul of 10mM Tris pH 8.5
 
  
-Pilot PCR – ½ reactions
+##Pilot PCR – ½ reactions
+
+---
 
 Use 14 ul of the ligation to test the number of PCR cycles neede d using a couple of samples eg one of each replicate group (not all in case further optimization is needed).  Start with 10- 15 cycles, which should be sufficient (less for RNA decay mutants), use the PAGE purification of the ligation as a guide. 
 
