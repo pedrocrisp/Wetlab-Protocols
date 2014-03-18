@@ -5,7 +5,7 @@
 
 2. Open Winprep
 
-3. 
+3. Initialise
 
 3. Utilities > flush and wash
 -to flush all bubbles out of the line
