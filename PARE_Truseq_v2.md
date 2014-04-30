@@ -92,7 +92,7 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 
 ---
 
-	Stopping point – store at -20<sup>o</sup>C
+Stopping point – store at -20<sup>o</sup>C
 	
 ---	
 	
