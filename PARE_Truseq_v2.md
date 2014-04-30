@@ -86,7 +86,7 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 
 
 - 50<sup>o</sup>C for 3 hours
-  * *could reduce to 1 hour probably
+  * *could reduce to 1 hour probably*
 - 72<sup>o</sup>C for 15 mins
 - 4<sup>o</sup>C hold
 
