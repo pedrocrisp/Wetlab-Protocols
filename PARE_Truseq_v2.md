@@ -90,7 +90,9 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 - 72<sup>o</sup>C for 15 mins
 - 4<sup>o</sup>C hold
 
-	Stopping point – store at -20 oC
+---
+
+	Stopping point – store at -20<sup>o</sup>C
 	
 ---	
 	
