@@ -22,7 +22,7 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 - Place the tube on the magnetic stand until the solution is clear and remove the supernatant. 
 - Remove the tube from the stand and wash the mRNA- bead complex TWICE with 200ul Washing Buffer B. Remove all the supernatant between each washing step with the help of the magnetic stand. 
 - Elute the mRNA from the beads by adding 16ul of Elution Buffer (10mM Tris-HCl, pH 7.5). 
-- Place tube at 65oC for 2 min and then place immediately on the magnetic stand. Transfer 15ul of the eluted mRNA to a new tube. 
+- Place tube at 65<sup>o</sup>C for 2 min and then place immediately on the magnetic stand. Transfer 15ul of the eluted mRNA to a new tube. 
 - Optional: recover another 1ul of purified mRNA and run on GXII
 
 ### Wash Dynabeads:
@@ -41,9 +41,9 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 |dH2O	 	 		|				|		|	1.75	|			| 
 | total				|				|		|	25	 	|	[10]	|
 
-- Incubate @ 37oC for 2hr 
-- Remove from 37oC and add 75ul of DEPC-treated water
-- Heat kill at 65οC for 10min
+- Incubate @ 37<sup>o</sup>C for 2hr 
+- Remove from 37<sup>o</sup>C and add 75ul of DEPC-treated water
+- Heat kill at 65<sup>o</sup>C for 10min
 - Place on ice 
 
 ### Prepare beads:
@@ -57,7 +57,7 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 - Place the tube on the magnetic stand until the solution is clear and remove the supernatant. 
 - Remove the tube from the stand and wash the mRNA- bead complex TWICE with 200ul Washing Buffer B. Remove all the supernatant between each washing step with the help of the magnetic stand. 
 - Elute the mRNA from the beads by adding 28.5ul of Elution Buffer (10mM Tris-HCl, pH 7.5). 
-- Place tube at 65oC for 2 min and then place immediately on the magnetic stand. Transfer 27.5 of the eluted mRNA to a new tube.  
+- Place tube at 65<sup>o</sup>C for 2 min and then place immediately on the magnetic stand. Transfer 27.5 of the eluted mRNA to a new tube.  
 
 ## Reverse transcription
 
@@ -66,12 +66,11 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 |Reagent			|volume	|
 |:------------------------------|:------|
 |5’-ligated RNA		|	27.5 ul		|
-|:------------------|:-------------:|
 |RT primer (100 um)	|	2 ul		|
 |Total			 	|	29.5 ul		| 
 						
 
-- 65oC for 5 mins, cool at RT
+- 65<sup>o</sup>C for 5 mins, cool at RT
 
 ## 1st strand synthesis
 
