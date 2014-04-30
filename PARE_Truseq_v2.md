@@ -39,7 +39,7 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 |Neb T4 RNA ligase I|	10,000 U/ml	|	15U	|	1.5	 	|			|
 |RNase OUT			|40u/uL			| 20U	|	0.5	 	|			|
 |dH2O	 	 		|				|		|	1.75	|			| 
-| total				|				|		|	25	 	|	[11]	|
+| total				|				|		|	25	 	|	[10]	|
 
 - Incubate @ 37oC for 2hr 
 - Remove from 37oC and add 75ul of DEPC-treated water
