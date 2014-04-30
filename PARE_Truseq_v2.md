@@ -10,11 +10,11 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 
 ### Prepare beads:
 - Transfer 200ul of Dynabeads in a 1.5ml tube on magnetic for 30sec and then pipette off the supernatant. 
-- Remove tube from stand, and add 100ul Binding Buffer to calibrate beads, place on magnet and aspirate.
-- Remove tube from stand, and add 100ul Binding Buffer to the Dynabeads (optimal hybridization conditions are a 1:1 ratio relative to sample volume).
+- Remove tube from stand, resuspend in 100ul Binding Buffer to calibrate beads, place on magnet and aspirate.
+- Remove tube from stand, resuspend in 100ul Binding Buffer (optimal hybridization conditions are a 1:1 ratio relative to sample volume).
 
 ### Denature RNA:
-- Heat to 65oC for 2 min to disrupt secondary structures. Place on ice. 
+- Heat to 65oC for 2 min to disrupt secondary structures. Place on ice for 5 mins. 
 
 ### Isolate mRNA
 - Add the total RNA to the Dynabeads/Binding Buffer suspension and mix thoroughly with pipette.
