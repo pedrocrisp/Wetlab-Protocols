@@ -172,7 +172,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 
 |Reagent			|volume	|___x|
 |:------------------------------|:------|:--|
-|Purified PCR Product 	|15.8ul||
+|Purified PCR Product 	|15.8ul|--|
 |10X NEB4 Buffer		      |2ul ||
 |10X SAM (32mM) 		   |0.2ul||
 |Mme1 (2u/ul) 		      |2ul  ||
@@ -185,7 +185,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 
 ##Ligation of 3’-double-strand DNA Adapter
 
-Make freshly prepared duplex adaptor by annealing 10% more oligo than needed, eg for 9 samples use 10ul of each:
+Make freshly prepared duplex adaptor by annealing 20% more oligo than needed (so that there is enough for the ligation master mix), eg for 9 samples use 11ul of each:
 
 |Reagent			|volume	|
 |:------------------------------|:------|
@@ -201,7 +201,7 @@ Make freshly prepared duplex adaptor by annealing 10% more oligo than needed, eg
 
 |Reagent			|volume	|___x|
 |:------------------------------|:------|:--|
-|Mme1 digested PCR |			20ul ||
+|Mme1 digested PCR |			20ul |--|
 |Annealed Duplex Adaptor (100uM) |		2ul ||
 |10X T4 DNA Ligase Buffer (w10mM ATP) 	|	3ul ||
 |T4 DNA Ligase (400U/ul)** 	|			0.5ul ||
