@@ -98,7 +98,7 @@ Stopping point – store at -20<sup>o</sup>C
 	
 
 ##PCRs
-Run a long QC PCR and then a short PCR to amplify the template for MmeI.
+Run a long QC PCR and a short PCR to amplify the template for MmeI.
 
 ###QC PCR
 
@@ -108,8 +108,8 @@ Run a long QC PCR and then a short PCR to amplify the template for MmeI.
 |100% DMSO			|3 %			|1.5			|			|
 |5x GC buffer			|1x			|10			|			|
 |dNTPs (10mM each)		|250 uM			|1.25			|			|
-|5’ short primer (10uM)		|0.4 uM*		|2.0			|			|
-|3’ short primer		|0.4 uM*		|2.0			|			|
+|5’ short primer (10uM)		|0.4 uM			|2.0			|			|
+|3’ short primer		|0.4 uM			|2.0			|			|
 |dH2O				|			|27.25			|			|
 |Phusion			|2 units		|1			|			|
 |				|			|50 ul			|[45]			|
