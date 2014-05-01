@@ -162,12 +162,12 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 - Lift the tube off the magnetic stand, move it up one row and place it back onto the magnetic stand. Repeat 6 times. Allow the beads to settle. Discard the supernatant.
 - With the tube on the magnetic stand, repeat the wash with 180 μl of 80% EtOH. Discard the supernatant. Do not disturb the beads. 
 - Open the tube lid and transfer to a 37°C heat block for 3 minutes or until the beads are completely dry. Small cracks can be observed in the dried pellet.
-- Add 16.8 μl of dH2O directly to the pellet and mix thoroughly using a pipette. 
+- Add 16.8 μl of dH<sub>2</sub>O directly to the pellet and mix thoroughly using a pipette. 
 - Incubate for 10 minutes.
 - Place the tube in the magnetic stand for at least 2 minute to allow complete capture of the beads. When suspension is clear, transfer 15.8 ul of the library-containing supernatant to a new tube.
 
 
-	Stopping point – store at -20 oC
+	Stopping point – store at -20°C
  
 ## Mme1 Digestion 
 
@@ -180,7 +180,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 |TOTAL 				  | 20ul | 
 
 - 37οC (2hr)
-- Remove from 37 οC, heat kill at 65 οC for 10min
+- Remove from 37°C, heat kill at 65°C for 10min
 - Let cool at RT (do NOT place on ice); 
 - Prepare Duplex Adapter during heat kill step. 
 
@@ -194,8 +194,8 @@ Make freshly prepared duplex adaptor by annealing 10% more oligo than needed, eg
 |dsDNA_2_Bottom	|1ul|
 |TOTAL 	|	2ul|
 
-- 100oC(5min); 
-- Slow cool down to RT by stepping temp down 5oC every 30sec (0.1oC /s to 25oC).  (~18min cycle)
+- 100°C(5min); 
+- Slow cool down to RT by stepping temp down 5°C every 30sec (0.1°C /s to 25°C).  (~18min cycle)
 - Keep at RT. 
 
 ##Set up duplex ligation:
@@ -209,9 +209,9 @@ Make freshly prepared duplex adaptor by annealing 10% more oligo than needed, eg
 
 **Use the concentrated 2,000U/ul enzyme if doing quick ligation in quick ligation buffer…
 
-- Ligate at 16oC overnight 
+- Ligate at 16°C overnight 
 
-	Stopping point – store at -20 oC
+	Stopping point – store at -20°C
  
  
 ## PAGE purify ds-DNA adapter ligation
