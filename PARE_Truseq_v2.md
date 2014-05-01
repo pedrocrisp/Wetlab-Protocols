@@ -166,8 +166,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 - Incubate for 10 minutes.
 - Place the tube in the magnetic stand for at least 2 minute to allow complete capture of the beads. When suspension is clear, transfer 15.8 ul of the library-containing supernatant to a new tube.
 
-
-	Stopping point – store at -20°C
+	Optional stopping point – store at -20°C
  
 ## Mme1 Digestion 
 
@@ -211,8 +210,9 @@ Make freshly prepared duplex adaptor by annealing 10% more oligo than needed, eg
 
 - Ligate at 16°C overnight 
 
+---
 	Stopping point – store at -20°C
- 
+---
  
 ## PAGE purify ds-DNA adapter ligation
 
