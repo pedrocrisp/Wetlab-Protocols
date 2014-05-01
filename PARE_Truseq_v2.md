@@ -171,15 +171,15 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
  
 ## Mme1 Digestion 
 
-|Reagent			|volume	|
-|:------------------------------|:------|
-|Purified PCR Product 	|15.8ul|
-|10X NEB4 Buffer		      |2ul |
-|10X SAM (32mM) 		   |0.2ul|
-|Mme1 (2u/ul) 		      |2ul  |
-|TOTAL 				  | 20ul | 
+|Reagent			|volume	|__x
+|:------------------------------|:------|__|
+|Purified PCR Product 	|15.8ul|__|
+|10X NEB4 Buffer		      |2ul |__|
+|10X SAM (32mM) 		   |0.2ul|__|
+|Mme1 (2u/ul) 		      |2ul  |__|
+|TOTAL 				  | 20ul | __|
 
-- 37οC (2hr)
+- 37°C (2hr)
 - Remove from 37°C, heat kill at 65°C for 10min
 - Let cool at RT (do NOT place on ice); 
 - Prepare Duplex Adapter during heat kill step. 
