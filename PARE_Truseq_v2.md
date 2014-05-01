@@ -64,7 +64,7 @@ Purify mRNA using Invitrogen Dynabeads mRNA direct kit:
 ### Denature RNA
 
 |Reagent			|volume	|
-|:------------------------------|:------|
+|:------------------------------|:------:|
 |5’-ligated RNA		|	27.5 ul		|
 |RT primer (100 um)	|	2 ul		|
 |Total			 	|	29.5 ul		| 
@@ -152,7 +152,7 @@ AMPure clean the short (7 cycle) PCR.
 Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or plate:
 
 |Reagent			|volume	|
-|:------------------------------|:------|
+|:------------------------------|:------:|
 |AMPure XP bead solution	|90 μl	|
 |cDNA Reaction          	|50 μl	|
 
@@ -172,7 +172,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 Note: Mme1 will begin cleaving on ice and at 50°C
 
 |Reagent			|volume	|___x|
-|:------------------------------|:------|:--|
+|:------------------------------|:------:|:--:|
 |Purified PCR Product 	|15.8ul|--|
 |10X NEB4 Buffer		      |2ul ||
 |10X SAM (32mM) 		   |0.2ul||
@@ -189,7 +189,7 @@ Note: Mme1 will begin cleaving on ice and at 50°C
 Make freshly prepared duplex adaptor by annealing 20% more oligo than needed (so that there is enough for the ligation master mix), eg for 9 samples use 11ul of each:
 
 |Reagent			|volume	|
-|:------------------------------|:------|
+|:------------------------------|:------:|
 |dsDNA_2_Top |	1ul |
 |dsDNA_2_Bottom	|1ul|
 |TOTAL 	|	2ul|
@@ -201,7 +201,7 @@ Make freshly prepared duplex adaptor by annealing 20% more oligo than needed (so
 ##Set up duplex ligation:
 
 |Reagent			|volume	|___x|
-|:------------------------------|:------|:--|
+|:------------------------------|:------|:--:|
 |Mme1 digested PCR |			20ul |--|
 |Annealed Duplex Adaptor (100uM) |		2ul ||
 |10X T4 DNA Ligase Buffer (w10mM ATP) 	|	3ul ||
