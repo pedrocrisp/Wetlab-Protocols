@@ -171,7 +171,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 ## Mme1 Digestion 
 
 |Reagent			|volume	|__x
-|:------------------------------|:------|__|
+|:------------------------------|:------|:--|
 |Purified PCR Product 	|15.8ul|__|
 |10X NEB4 Buffer		      |2ul |__|
 |10X SAM (32mM) 		   |0.2ul|__|
