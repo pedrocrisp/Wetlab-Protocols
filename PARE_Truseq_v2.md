@@ -219,9 +219,9 @@ Make freshly prepared duplex adaptor by annealing 20% more oligo than needed (so
  
 ## PAGE purify ds-DNA adapter ligation
 
-The dsDNA adapter firstly can form dimers and then the ssDNA adapters once denatured can prime the final PCR if not removed and result in spurious adapter dimers dominating the final library. Using an adapter without the 5'phosphate may reduce dimer formation; however, this may also impact ligation efficiency for the desired insert.
+The dsDNA adapter can form dimers and; subsequently, the ssDNA adapters once denatured can prime the final PCR if not removed, which results in spurious adapter dimers dominating the final library. Using an adapter without the 5'phosphate may reduce dimer formation; however, this may also impact ligation efficiency for the desired insert.
 
-Samples are not yet indexed therefore preferably leave spaces between samples, and run sample groups of different gels (ie only replicates on the same gel).
+Samples are not yet indexed therefore preferably leave spaces between samples, and run sample groups on different gels (i.e. only replicates on the same gel).
 
 ### 12 % native PAGE (0.5x TBE)
 - 1.5ml spacers (or 1.0mm and will have leftovers), 2 gels
@@ -229,10 +229,10 @@ Samples are not yet indexed therefore preferably leave spaces between samples, a
 |	|2x 1.5mm gels (4x 1.0 mm gels)	|4 x 1.5 mm gels|
 |:-------|:--------------------------:|:-------------------:|
 |40% acrylamide (acryl: bis 1:19)	| 9.0 ml |	15.0 ml |
-|10 x TBE	1.5 ml	2.5 ml
-|dH2O	up to 30ml	up to 50ml
+|10 x TBE	|1.5 ml|	2.5 ml|
+|dH<sub>2</sub>O	up to 30ml	|up to 50ml|
 |*Optional 0.22uM filter, add then quickly pour:* | | |		
-|10% APS (100mg/ml H20)	|210ul	|350ul|
+|10% APS (100mg/ml H<sub>2</sub>0)	|210ul	|350ul|
 |TEMED|	21|	35ul|
 
 
@@ -243,11 +243,11 @@ Samples are not yet indexed therefore preferably leave spaces between samples, a
 - 180 V
 - ~50 mins until bromo blue just above bottom of gel
 - Add 73 bp marker (5 ul) (ELIP2 is PCR product) Not needed really
-- Add 0.25ug Invitrogen 10bp ladder (0.25ul into 5 ul H2O + 2ul GLB) 
+- Add 0.25ug Invitrogen 10bp ladder (0.25ul into 5 ul H<sub>2</sub>O + 2ul GLB) 
 
 ####Stain Gel:
 
-- Stain 5 mins in 100ml H2O + 10ul EtBr (final – 1mg/ml), rinse twice in MQ H2O
+- Stain 5 mins in 100ml H<sub>2</sub>O + 10ul EtBr (final – 1mg/ml), rinse twice in MQ H<sub>2</sub>O
 Cut bands:
 - Align sterile razor with the 60 and 70 bp markers and cut to capture the band corresponding to the ligation product (63bp); avoid adapter dimers (44bp) and place slices in shredder tubes.
 
@@ -263,21 +263,21 @@ Cut bands:
 
 - Add gel slice and spin at max rcf for 2 mins, 
 ..-After spin small debris that get stuck in shredder can be tapped out into collection tube.
-- Add 450 ul DEPC H2O
-- Elute DNA overnight at 4oC by rotating on the inteli mixer F5 60 RPM
-- Pre-chill 100% ethanol at -20oC for next day
+- Add 450 ul DEPC H<sub>2</sub>O
+- Elute DNA overnight at 4°C by rotating on the inteli mixer F5 60 RPM
+- Pre-chill 100% ethanol at -20°C for next day
 Precipitate and recover DNA:
-- Put 100% ethanol in the -80oC to 10 mins if you forgot yesterday…
-- The following day, add gel debris slurry to Spin-X 0.45 uM spin filter, and spin 2 mins max speed 4oC
+- Put 100% ethanol in the -80°C to 10 mins if you forgot yesterday…
+- The following day, add gel debris slurry to Spin-X 0.45 uM spin filter, and spin 2 mins max speed 4°C
 - Keep flow-through and add:
-..* 2 ul Glycoblue
-..* 46 ul NaOAc (4M)
-..* 1400 ul  EtOH (pre-chilled)
+  * 2 ul Glycoblue
+  * 46 ul NaOAc (4M)
+  * 1400 ul  EtOH (pre-chilled)
 - Invert 11 times
-- Spin 20,000 RCF x 20 mins at 4oC, then aspirate supernatant 
+- Spin 20,000 RCF x 20 mins at 4°C, then aspirate supernatant 
 - Wash with 500ul of 70% ethanol at RT, spin 2 mins 7,000 RCF and aspirate ethanol
-..* Pulse spin again and aspirate with fine tip if necessary to remove trace ethanol 
-- Dry for 5-10 mins at 37oC
+  * Pulse spin again and aspirate with fine tip if necessary to remove trace ethanol 
+- Dry for 5-10 mins at 37°C
 - Re-suspend in 31ul of 10mM Tris pH 8.5
 
  
