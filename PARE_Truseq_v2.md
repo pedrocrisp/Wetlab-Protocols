@@ -170,13 +170,13 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
  
 ## Mme1 Digestion 
 
-|Reagent			|volume	|__x|
+|Reagent			|volume	|___x|
 |:------------------------------|:------|:--|
 |Purified PCR Product 	|15.8ul||
 |10X NEB4 Buffer		      |2ul ||
 |10X SAM (32mM) 		   |0.2ul||
 |Mme1 (2u/ul) 		      |2ul  ||
-|TOTAL 				  | 20ul | [4.2]|
+|TOTAL 				  | 20ul | [4.2ul]|
 
 - 37°C (2hr)
 - Remove from 37°C, heat kill at 65°C for 10min
@@ -199,12 +199,14 @@ Make freshly prepared duplex adaptor by annealing 10% more oligo than needed, eg
 
 ##Set up duplex ligation:
 
-|Mme1 digested PCR |					20ul |
-|Annealed Duplex Adaptor (100uM) |		2ul |
-|10X T4 DNA Ligase Buffer (w10mM ATP) 	|	3ul |
-|T4 DNA Ligase (400U/ul)** 	|			0.5ul |
-|dH2O 	|						4.5ul  |
-|TOTAL 	|					30ul |
+|Reagent			|volume	|___x|
+|:------------------------------|:------|:--|
+|Mme1 digested PCR |			20ul ||
+|Annealed Duplex Adaptor (100uM) |		2ul ||
+|10X T4 DNA Ligase Buffer (w10mM ATP) 	|	3ul ||
+|T4 DNA Ligase (400U/ul)** 	|			0.5ul ||
+|dH2O 	|						4.5ul  ||
+|TOTAL 	|					30ul |[10ul]|
 
 **Use the concentrated 2,000U/ul enzyme if doing quick ligation in quick ligation buffer…
 
