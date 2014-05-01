@@ -172,10 +172,10 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 
 |Reagent			|volume	|__x|
 |:------------------------------|:------|:--|
-|Purified PCR Product 	|15.8ul|__|
-|10X NEB4 Buffer		      |2ul |__|
-|10X SAM (32mM) 		   |0.2ul|__|
-|Mme1 (2u/ul) 		      |2ul  |__|
+|Purified PCR Product 	|15.8ul||
+|10X NEB4 Buffer		      |2ul ||
+|10X SAM (32mM) 		   |0.2ul||
+|Mme1 (2u/ul) 		      |2ul  ||
 |TOTAL 				  | 20ul | [4.2]|
 
 - 37°C (2hr)
