@@ -98,8 +98,7 @@ Stopping point – store at -20<sup>o</sup>C
 	
 
 ##PCRs
-Run a long QC PCR and a short PCR to amplify the template for MmeI.
-
+Run a long QC PCR and a short PCR to amplify the template for MmeI. QC PCR takes 4.5 hours. 
 ###QC PCR
 
 |				|Final			|1x (ul)		| __x			|
@@ -118,10 +117,10 @@ PCR cycling
 
 |step	|	1	|	2	|	3	|	4	|	5	|	6	|7	|
 |:------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:------|
-|temp	|98		|98		|58		|72		|*Go to 24 six times*|	72	|4 	|
-|min	|1:00		|0:30		|0:30		|0:30		|		|	7:00	|hold	|
+|temp	|98		|98		|58		|72		|*Go to 2 x 34 times*|	72	|4 	|
+|min	|1:00		|0:30		|0:30		|5:00		|		|	7:00	|hold	|
 
-Run 2 ul on GXII HS-DNA chip. Or on a 1.5% agarose gel.  
+Run 2 ul on GXII 5k chip. Or on a 1.5% agarose gel.  
 Should get a smear with distinct bands under 1 kb and above/around 3kb.
  
 ###Short PCR
@@ -144,10 +143,11 @@ PCR cycling
 |step	|	1	|	2	|	3	|	4	|	5	|	6	|7	|
 |:------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:------|
 |temp	|98		|98		|58		|72		|*Go to 2 six times*|	72	|4 	|
-|min	|1:00		|0:30		|0:30		|0:30		|		|	7:00	|hold	|
+|min	|1:00		|0:30		|0:30		|5:00		|		|	7:00	|hold	|
 
 
 ### AMPure XP (1.8x) size selecton of cDNA reaction:
+AMPure clean the short (7 cycle) PCR.
 
 Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or plate:
 
