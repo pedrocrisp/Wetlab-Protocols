@@ -169,6 +169,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 	Optional stopping point – store at -20°C
  
 ## Mme1 Digestion 
+Note: Mme1 will begin cleaving on ice and at 50°C
 
 |Reagent			|volume	|___x|
 |:------------------------------|:------|:--|
@@ -179,7 +180,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 |TOTAL 				  | 20ul | [4.2ul]|
 
 - 37°C (2hr)
-- Remove from 37°C, heat kill at 65°C for 10min
+- Remove from 37°C, heat kill at 65°C for 20min
 - Let cool at RT (do NOT place on ice); 
 - Prepare Duplex Adapter during heat kill step. 
 
