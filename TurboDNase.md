@@ -32,4 +32,4 @@ Maxi TURBO prep for high levels of DNA.
 
 11.	Remove EtOH with pipette. Pulse spin and remove remaining EtOH. Air dry 5 ins RT.
 
-12.	Re-suspend in H<sub</sub>>2O or TRIS (eg 20uL).
+12.	Re-suspend in H<sub>2</sub>O or TRIS (eg 20uL).
