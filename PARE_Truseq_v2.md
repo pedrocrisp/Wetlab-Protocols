@@ -230,7 +230,7 @@ Samples are not yet indexed therefore preferably leave spaces between samples, a
 |:-------|:--------------------------:|:-------------------:|
 |40% acrylamide (acryl: bis 1:19)	| 9.0 ml |	15.0 ml |
 |10 x TBE	|1.5 ml|	2.5 ml|
-|dH<sub>2</sub>O	up to 30ml	|up to 50ml|
+|dH<sub>2</sub>O	|up to 30ml	|up to 50ml|
 |*Optional 0.22uM filter, add then quickly pour:* | | |		
 |10% APS (100mg/ml H<sub>2</sub>0)	|210ul	|350ul|
 |TEMED|	21|	35ul|
