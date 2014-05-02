@@ -1,14 +1,16 @@
 #Turbo DNase treatment
 
 Maxi TURBO prep for high levels of DNA. 
-Kit will make 60 rxns.
+
+[Life Tech/ Invitrogen Kit #AM2238](http://www.lifetechnologies.com/order/catalog/product/AM2238?ICID=search-product) 1000U will make 250 rxns (~AUD$187).
+
 
 1.	Prepare 90uL aliquots of RNA with up to  20 ug nucleic acid
 
 2.	Add DNase
-a.	Add 10 uL of 10x Turbo DNase buffer (0.1 volume).
-b.	Add 1.0 uL TURBO DNase (2U).
-c.	Mix gently with pipette.
+  * Add 10 uL of 10x Turbo DNase buffer (0.1 volume).
+  * Add 1.0 uL TURBO DNase (2U).
+  * Mix gently with pipette.
 
 3.	Incubate at 37°C for 30 mins
 
@@ -21,8 +23,8 @@ c.	Mix gently with pipette.
 7.	Transfer the upper phase (~100ul) to a fresh tube.
 
 8.	Add 1 volume of cold isopropanol (~100ul) and 1/10 volume of 4M NaOAc, pH 5.2
-a.	For higher yield and sRNA recovery incubate overnight @ -20°C
-b.	Alternatively, incubate for 15 mins in -80°C freezer.
+  * For higher yield and sRNA recovery incubate overnight @ -20°C
+  * Alternatively, incubate for 15 mins in -80°C freezer.
 
 9.	Centrifuge samples for 20 mins, max g, at 4°C.  Remove supernatant with pipette.
 
