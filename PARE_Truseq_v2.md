@@ -361,7 +361,7 @@ Gel purify, as above for the ligation clean up step. 
 5′-GUUCAGAGUUCUACAGUCCGAC-3′ 
 
 ####Target RT-primer: 
-5' CGA GCA CAG AAT TAA TAC GAC TTT TTT TTT TTT TTT TTT
+5'-CGA GCA CAG AAT TAA TAC GAC TTT TTT TTT TTT TTT TTT-3'
 
 ####Short PCR primer:
 5′-adapter primer 5′-GTTCAGAGTTCTACAGTCCGAC-3′
@@ -371,7 +371,7 @@ Gel purify, as above for the ligation clean up step. 
 *dsDNA_2_Top: 5' Phos-TGG AAT TCT CGG GTG CCA AGG
 dsDNA_2_Bottom:  5'-CCT TGG CAC CCG AGA ATT CCA NN
 
-*note that Jixan Zhai’s published TruSeq protocol does not have the 5’ phosphate, perhaps this helps to minimize duplex self-ligation.  That said; I only need ~8 cycles for the final PCR, where as Jixan reports 15 cycle final PCR… 
+*note that Jixan Zhai’s published TruSeq protocol does not have the 5’ phosphate, perhaps this helps to minimize duplex self-ligation.  That said; I only need ~8 cycles for a half reaction at the final PCR, where as Jixan reports 15 cycle final PCR… 
 
 ####final PCR primer (P2 sRNA long primer aka “old PARE primer)
 5': AATGATACGGCGACCACCGACAGGTTCAGAGTTCTACAGTC
@@ -382,7 +382,7 @@ Indexes 1~24
 
 ####PARE TruSeqV2 read primer:
 5’ – CCACCGACAGGTTCAGAGTTCTACAGTCCGAC – 3’
-“I would recommend PAGE purification, it's a small price to pay when considering the cost of Illumina sequencing in both time and $$. I resuspend to 100uM in TE, aliquot, then dilute to 500nM (1:200) for use. This is the standard procedure that Illumina uses for their sequencing primers.” [Brewster Kingham brucek@udel.edu]
+“I would recommend PAGE purification, it's a small price to pay when considering the cost of Illumina sequencing in both time and $$. I resuspend to 100uM in TE, aliquot, then dilute to 500nM (1:200) for use. This is the standard procedure that Illumina uses for their sequencing primers.” [Brewster Kingham]
 
 
 ##Reagents
