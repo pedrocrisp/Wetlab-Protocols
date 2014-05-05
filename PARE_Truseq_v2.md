@@ -262,13 +262,18 @@ Cut bands:
 ####Shred:
 
 - Add gel slice and spin at max rcf for 2 mins, 
-..-After spin small debris that get stuck in shredder can be tapped out into collection tube.
+  - After spin small debris that get stuck in shredder can be tapped out into collection tube.
 - Add 450 ul DEPC H<sub>2</sub>O
+
+---
 - Elute DNA overnight at 4°C by rotating on the inteli mixer F5 60 RPM
 - Pre-chill 100% ethanol at -20°C for next day
-Precipitate and recover DNA:
-- Put 100% ethanol in the -80°C to 10 mins if you forgot yesterday…
-- The following day, add gel debris slurry to Spin-X 0.45 uM spin filter, and spin 2 mins max speed 4°C
+
+---
+
+####Precipitate and recover DNA:
+*Put 100% ethanol in the -80°C to 10 mins if you forgot yesterday…*
+- Add gel debris slurry to Spin-X 0.45 uM spin filter, and spin 2 mins max speed 4°C
 - Keep flow-through and add:
   * 2 ul Glycoblue
   * 46 ul NaOAc (4M)
@@ -283,102 +288,104 @@ Precipitate and recover DNA:
  
 ##Pilot PCR – ½ reactions
 
----
-
-Use 14 ul of the ligation to test the number of PCR cycles neede d using a couple of samples eg one of each replicate group (not all in case further optimization is needed).  Start with 10- 15 cycles, which should be sufficient (less for RNA decay mutants), use the PAGE purification of the ligation as a guide. 
+Use 14 ul from 2 or more samples, but not all samples to test PCR:
+Use 14 ul of the ligation to determine the optimal number of PCR cycles needed to amplify library to around 10-20nM (need at least 2nM after PCR clean-up for clustering). Use a couple of samples e.g. one of each replicate group (not all samples in case further optimization is needed).  Start with 10-15 cycles, which should be sufficient (less for RNA decay mutants), use the PAGE purification of the ligation as a guide, if the ligation band was visible, 10 cycles should suffice. 
 
 Note: Ideally, all samples should be amplified on the same machine at the same time with the same cycle number once optimization is complete. 
 
 
-	Final	1x (ul)	___x
-DNA		14	--
-100% DMSO	3 %	0.75	
-5x GC buffer	1x	5	
-dNTPs (10mM each)	250 uM	0.625	
-3’ TruSeq index primer (10uM)**	0.4 uM*	1.0	--
-5’ PARE Final PCR primer (10 uM)	0.4 uM*	1.0	
-dH2O		2.375	
-Phusion	1 unit	0.25	
-		25 ul	[10]
+|	|		Final|	1x (ul)	|	___x|
+|:--|:__:|:--:|:--:|
+|DNA|		|		|14	|	--|
+|100% DMSO	|	3 % 	|0.75	|	|
+|5x GC buffer	|	1x	|5	|	|
+|dNTPs (10mM each)|	|250 uM	|0.625	|	|
+|3’ TruSeq index primer (10uM)*|0.4 uM^	|1.0	|--|
+|5’ PARE Final PCR primer (10 uM)|	0.4 uM^|1.0|	|
+|dH2O		|		|2.375	|	|	
+|Phusion	|1 unit		|0.25	|	|	
+|		|		|25 ul|	[10]	|
 
-*Note that this is 4x conc in the Truseq-PARE protocol I was sent from Blake’s lab (0.1um); but it seemed low so I increased it.  German et al Nat Biotec used 0.5 uM in the original published protocol.
+^Note that this is 4x conc in the Truseq-PARE protocol I was sent from Blake’s lab (0.1um); but it seemed low so I increased it.  German et al Nat Biotec used 0.5 uM in the original published protocol.
 **The Illumina support site reports that any index combination shows minimal variability, including low-plex pools.
 PCR cycling
-	oC	min
-1. 	98	:30
-2.	98	:10
-3.	58	:30
-4.	72	:20
-5. Go to 2. more than a couple of times (nine?)
-6. 	72	10:00
-7. 	4	hold
+
+|step	|	1	|	2	|	3	|	4	|	5	|	6	|7	|
+|:------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:------|
+|temp	|98		|98		|58		|72		|*Go to 2 ~10 times*|	72	|4 	|
+|min	|:30		|0:10		|0:30		|:20		|		|	10:00	|hold	|
+
 
 Run 2 ul on GXII HS-DNA chip. 
 
-Final PCR
+##Final PCR
 Repeat PCR conditions as per pilot with optimized cycle number. 
 
-PAGE purify and concentrate final library
+##PAGE purify and concentrate final library
 
 Samples are not indexed now therefore spaces between samples are not so important and samples groups can be mixed on the same gel.  Probably need to run each sample over 2 lanes (~30ul total).
-6 % native PAGE (0.5x TBE)
 
-	2x 1.5mm gels
-(4x 1.0 mm gels)	4 x 1.5 mm gels
-40% acrylamide
-(acryl: bis 1:19)	4.5 ml	7.5 ml
-10 x TBE	1.5 ml	2.5 ml
-dH2O	up to 30ml	up to 50ml
-Optional 0.22uM filter, add then quickly pour:		
-10% APS
-(100mg/ml H20)	210ul	350ul
-TEMED	21	35ul
+ALternatively, use the GXII to determine concentration of each library and combine in equal molar amounts and run the pooled samples on the gel.
 
+###6 % native PAGE (0.5x TBE)
+
+|	|2x 1.5mm gels (4x 1.0 mm gels)	|4 x 1.5 mm gels|
+|:-------|:--------------------------:|:-------------------:|
+|40% acrylamide (acryl: bis 1:19)	| 4.5 ml |	7.5 ml |
+|10 x TBE	|1.5 ml|	2.5 ml|
+|dH<sub>2</sub>O	|up to 30ml	|up to 50ml|
+|*Optional 0.22uM filter, add then quickly pour:* | | |		
+|10% APS (100mg/ml H<sub>2</sub>0)	|210ul	|350ul|
+|TEMED|	21|	35ul|
 
 - Add 5x Biorad loading dye (GLB) to samples, max volume is ~25 ul(?) for 1.0mm gel, max volume is ~ ul(?) for 1.5mm gel
 
-Run Gel:
+####Run Gel:
 - 145 V
 - ~60 mins until xylene cyanol is 1 cm above bottom of gel
-- Add 123 bp marker (ACT7 PCR product) Not needed really
+- Add 123 bp marker (ACT7 PCR product), although not needed really.
 - Add 0.25ug Invitrogen 10bp ladder (0.25ul into 5 ul H2O + 2ul GLB) 
 Stain Gel:
 - Stain 5 mins in 100ml H2O + 10ul EtBr (final – 1mg/ml), rinse twice in MQ H2O
 Cut bands:
-- Align sterile razor just above the 120pb marker and the just below the 140bp marker and cut to capture the band corresponding to the final PCR product (128bp);) and place slices in shredder tubes.
+- Align sterile razor just above the 120pb marker and the just below the 140bp marker and cut to capture the band corresponding to the final PCR product (128bp) and place slices in shredder tubes.
 
-Gel Purification of PCR:
+####Gel Purification of PCR:
 Gel purify, as above for the ligation clean up step. 
-Reagents
-Oligos
+- resuspend in 22ul of 10mM TRIS pH8.5 with optional 0.1% Tween-20 to reduce DNA binding to the plastic.
 
-5′-PARE RNA adaptor 5′-GUUCAGAGUUCUACAGUCCGAC-3′ 
+##Reagents
+###Oligos
 
-Target RT-primer: 
+####5′-PARE RNA adaptor 
+5′-GUUCAGAGUUCUACAGUCCGAC-3′ 
+
+####Target RT-primer: 
 5' CGA GCA CAG AAT TAA TAC GAC TTT TTT TTT TTT TTT TTT
 
-Short PCR primer:
+####Short PCR primer:
 5′-adapter primer 5′-GTTCAGAGTTCTACAGTCCGAC-3′
 3′-adapter primer 5′-CGAGCACAGAATTAATACGACT-3′
 
-dsDNA adapter (PARE TruSeq Duplex) (PAGE purified): 
+####dsDNA adapter (PARE TruSeq Duplex) (PAGE purified): 
 *dsDNA_2_Top: 5' Phos-TGG AAT TCT CGG GTG CCA AGG
 dsDNA_2_Bottom:  5'-CCT TGG CAC CCG AGA ATT CCA NN
 
-final PCR primer (P2 sRNA long primer aka “old PARE primer)
+*note that Jixan Zhai’s published TruSeq protocol does not have the 5’ phosphate, perhaps this helps to minimize duplex self-ligation.  That said; I only need ~8 cycles for the final PCR, where as Jixan reports 15 cycle final PCR… 
+
+####final PCR primer (P2 sRNA long primer aka “old PARE primer)
 5': AATGATACGGCGACCACCGACAGGTTCAGAGTTCTACAGTC
 
-Truseq small RNA kit primers (eg from #RS-200-0012):
-Truseq 3' sRNA primer
+####Truseq small RNA kit primers (eg from #RS-200-0012):
+Truseq 3' sRNA primer (RPI 1-24)
 Indexes 1~24
 
-PARE TruSeqV2 read primer:
+####PARE TruSeqV2 read primer:
 5’ – CCACCGACAGGTTCAGAGTTCTACAGTCCGAC – 3’
 “I would recommend PAGE purification, it's a small price to pay when considering the cost of Illumina sequencing in both time and $$. I resuspend to 100uM in TE, aliquot, then dilute to 500nM (1:200) for use. This is the standard procedure that Illumina uses for their sequencing primers.” [Brewster Kingham brucek@udel.edu]
 
 
-*note that Jixan Zhai’s published TruSeq protocol does not have the 5’ phosphate, perhaps this helps to minimize duplex self-ligation.  That said; I only need ~8 cycles for the final PCR, where as Jixan reports 15 cycle final PCR… 
-Reagents
+##Reagents
 
 VENDOR	Product	CAT#	Unit	UNIT AUD$
 Life Technologies (invitrogen)	Dynabeads® mRNA Purification Kit for mRNA Purification from Total RNA Preps	610-06	2mL	709
