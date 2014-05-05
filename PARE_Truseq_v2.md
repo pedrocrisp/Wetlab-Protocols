@@ -365,10 +365,12 @@ Gel purify, as above for the ligation clean up step. 
 
 ####Short PCR primer:
 5′-adapter primer 5′-GTTCAGAGTTCTACAGTCCGAC-3′
+
 3′-adapter primer 5′-CGAGCACAGAATTAATACGACT-3′
 
 ####dsDNA adapter (PARE TruSeq Duplex) (PAGE purified): 
 *dsDNA_2_Top: 5' Phos-TGG AAT TCT CGG GTG CCA AGG
+
 dsDNA_2_Bottom:  5'-CCT TGG CAC CCG AGA ATT CCA NN
 
 *note that Jixan Zhai’s published TruSeq protocol does not have the 5’ phosphate, perhaps this helps to minimize duplex self-ligation.  That said; I only need ~8 cycles for a half reaction at the final PCR, where as Jixan reports 15 cycle final PCR… 
@@ -377,11 +379,11 @@ dsDNA_2_Bottom:  5'-CCT TGG CAC CCG AGA ATT CCA NN
 5': AATGATACGGCGACCACCGACAGGTTCAGAGTTCTACAGTC
 
 ####Truseq small RNA kit primers (eg from #RS-200-0012):
-Truseq 3' sRNA primer (RPI 1-24)
-Indexes 1~24
+Truseq 3' sRNA primer (RPI 1-24), indices 1~24
 
 ####PARE TruSeqV2 read primer:
 5’ – CCACCGACAGGTTCAGAGTTCTACAGTCCGAC – 3’
+
 “I would recommend PAGE purification, it's a small price to pay when considering the cost of Illumina sequencing in both time and $$. I resuspend to 100uM in TE, aliquot, then dilute to 500nM (1:200) for use. This is the standard procedure that Illumina uses for their sequencing primers.” [Brewster Kingham]
 
 
