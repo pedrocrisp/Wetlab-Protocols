@@ -295,7 +295,7 @@ Note: Ideally, all samples should be amplified on the same machine at the same t
 
 
 |	|		Final|	1x (ul)	|	___x|
-|:--|:__:|:--:|:--:|
+|:--|:--:|:--:|:--:|
 |DNA|		|		|14	|	--|
 |100% DMSO	|	3 % 	|0.75	|	|
 |5x GC buffer	|	1x	|5	|	|
