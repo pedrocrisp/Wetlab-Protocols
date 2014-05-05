@@ -296,10 +296,10 @@ Note: Ideally, all samples should be amplified on the same machine at the same t
 
 |	|		Final|	1x (ul)	|	___x|
 |:--|:--:|:--:|:--:|
-|DNA|		|		|14	|	--|
+|DNA|			|14	|	|	--|
 |100% DMSO	|	3 % 	|0.75	|	|
 |5x GC buffer	|	1x	|5	|	|
-|dNTPs (10mM each)|	|250 uM	|0.625	|	|
+|dNTPs (10mM each)|	250 uM	|0.625	|	|
 |3’ TruSeq index primer (10uM)*|0.4 uM^	|1.0	|--|
 |5’ PARE Final PCR primer (10 uM)|	0.4 uM^|1.0|	|
 |dH2O		|		|2.375	|	|	
