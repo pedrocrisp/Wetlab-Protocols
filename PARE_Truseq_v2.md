@@ -389,19 +389,21 @@ Truseq 3' sRNA primer (RPI 1-24), indices 1~24
 
 ##Reagents
 
-VENDOR	Product	CAT#	Unit	UNIT AUD$
-Life Technologies (invitrogen)	Dynabeads® mRNA Purification Kit for mRNA Purification from Total RNA Preps	610-06	2mL	709
-Life Technologies (invitrogen)	RNaseOUT™ Recombinant Ribonuclease Inhibitor	10777-019	5000U	163.68
-Life Technologies (invitrogen)	TRIzol® Reagent	15596018	200ml	592
-Life Technologies (invitrogen)	SuperScript III Reverse Transcriptase	18080085	4x10000	1577.8
-Sigma	Costar® Spin-X® centrifuge tube filters	CLS8162-96EA	96 tubes	127
-NEB/Genesearch	APT (10mM)	P0756S	1ml	47
-NEB/Genesearch	Neb T4 RNA ligase I (ssRNA ligase) 10,000 U/ml	M0204S	1000U	92
-NEB/Genesearch	MmeI (2,000U/ml)	R0637L	500U	399
-NEB/Genesearch	T4 DNA ligase (400U/ul)	M0202S	20,000U	101
-Life Technologies (invitrogen)	10bp DNA ladder	10821-015	50ug (50ul)	193
-NEB/Genesearch	Phusion High-Fidelity DNA Polymerase
-(100 units)	M0530S	100 U	149.40
+|VENDOR	|Product	|CAT#	|Unit	|UNIT AUD$|
+|:--|:--|:--|:--|:--|
+|Life Technologies (invitrogen)	|Dynabeads® mRNA Purification Kit for mRNA Purification from Total RNA Preps	|610-06	|2mL	|709|
+|Life Technologies (invitrogen)	|RNaseOUT™ Recombinant Ribonuclease Inhibitor	|10777-019	|5000U	|163.68|
+|Life Technologies (invitrogen)	|TRIzol® Reagent	|15596018	|200ml	|592|
+|Life Technologies (invitrogen)	|SuperScript III Reverse Transcriptase	|18080085	|4x10000	|1577.8|
+|Sigma	|Costar® Spin-X® centrifuge tube filters	|CLS8162-96EA	|96 tubes	|127|
+|NEB/Genesearch	|APT (10mM)	|P0756S	|1ml	|47|
+|NEB/Genesearch	|Neb T4 RNA ligase I (ssRNA ligase) 10,000 U/ml	|M0204S	|1000U	|92|
+|NEB/Genesearch	|MmeI (2,000U/ml)	|R0637L	|500U	|399|
+|NEB/Genesearch	|T4 DNA ligase (400U/ul)^	|M0202S	|20,000U	|101|
+|Life Technologies (invitrogen)	|10bp DNA ladder	|10821-015	|50ug (50ul)	|193|
+|NEB/Genesearch	|Phusion High-Fidelity DNA Polymerase (100 units)	|M0530S	|100 U	|149.40|
+
+^ *for overnight ligation*
 
 
 
