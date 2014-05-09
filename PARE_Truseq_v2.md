@@ -322,9 +322,9 @@ Run 2 ul on GXII HS-DNA chip.
 Repeat PCR conditions as per pilot with optimized cycle number. 
 
 ##AMPure XP (1.7x) purify and concentrate final library
-*Note: original protocol used 6% native PAGE at this step, bead work well and are much more convinent*
+*Note: original protocol used 6% native PAGE at this step, beads work great and are much more convinent*
 
-AMPure purify PCR as previously. Can pool either beofre or after AMPure step.  Note that it is reccommended that each batch of AMPure XP beads are tested to calibrate the sweet spot to recover the 128bp library while avoiding any adapter dimers that may appear at around 80bp and below. 
+AMPure purify PCR as previously. Can pool either beofre or after AMPure step.  Note that it is reccommended that each batch of AMPure XP beads are tested to calibrate the sweet spot to recover the 128bp library while avoiding any adapter dimers that may appear at around 80bp and below, for this batch 1.7x recovered 60% of the 130bp ladder band while less than 10% of the 80bp band was recovered and no adapter dimers or primers were detectable in the libraries after AMPure cleaning the final PCR.
 
 ![alt text](https://github.com/pedrocrisp/Wetlab-Protocols/blob/master/10bp_ladder_bead_test.png?raw=true "10bp ladder AMPure bead test")
 
