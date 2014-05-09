@@ -326,7 +326,7 @@ Repeat PCR conditions as per pilot with optimized cycle number. 
 
 AMPure purify PCR as previously. Can pool either beofre or after AMPure step.  Note that it is reccommended that each batch of AMPure XP beads are tested to calibrate the sweet spot to recover the 128bp library while avoiding any adapter dimers that may appear at around 80bp and below. 
 
-![alt text](https://github.com/pedrocrisp/Wetlab-Protocols/blob/master/10bp_ladder_bead_test.png "10bp ladder AMPure bead test")
+![alt text](https://github.com/pedrocrisp/Wetlab-Protocols/blob/master/10bp_ladder_bead_test.png?raw=true "10bp ladder AMPure bead test")
 
 ##Reagents
 ###Oligos
