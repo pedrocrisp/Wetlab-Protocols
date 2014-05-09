@@ -321,38 +321,12 @@ Run 2 ul on GXII HS-DNA chip.
 ##Final PCR
 Repeat PCR conditions as per pilot with optimized cycle number. 
 
-##PAGE purify and concentrate final library
+##AMPure XP (1.7x) purify and concentrate final library
+*Note: original protocol used 6% native PAGE at this step, bead work well and are much more convinent*
 
-Samples are not indexed now therefore spaces between samples are not so important and samples groups can be mixed on the same gel.  Probably need to run each sample over 2 lanes (~30ul total).
+AMPure purify PCR as previously. Can pool either beofre or after AMPure step.  Note that it is reccommended that each batch of AMPure XP beads are tested to calibrate the sweet spot to recover the 128bp library while avoiding any adapter dimers that may appear at around 80bp and below. 
 
-ALternatively, use the GXII to determine concentration of each library and combine in equal molar amounts and run the pooled samples on the gel.
-
-###6 % native PAGE (0.5x TBE)
-
-|	|2x 1.5mm gels (4x 1.0 mm gels)	|4 x 1.5 mm gels|
-|:-------|:--------------------------:|:-------------------:|
-|40% acrylamide (acryl: bis 1:19)	| 4.5 ml |	7.5 ml |
-|10 x TBE	|1.5 ml|	2.5 ml|
-|dH<sub>2</sub>O	|up to 30ml	|up to 50ml|
-|*Optional 0.22uM filter, add then quickly pour:* | | |		
-|10% APS (100mg/ml H<sub>2</sub>0)	|210ul	|350ul|
-|TEMED|	21|	35ul|
-
-- Add 5x Biorad loading dye (GLB) to samples, max volume is ~25 ul(?) for 1.0mm gel, max volume is ~ ul(?) for 1.5mm gel
-
-####Run Gel:
-- 145 V
-- ~60 mins until xylene cyanol is 1 cm above bottom of gel
-- Add 123 bp marker (ACT7 PCR product), although not needed really.
-- Add 0.25ug Invitrogen 10bp ladder (0.25ul into 5 ul H2O + 2ul GLB) 
-Stain Gel:
-- Stain 5 mins in 100ml H2O + 10ul EtBr (final – 1mg/ml), rinse twice in MQ H2O
-Cut bands:
-- Align sterile razor just above the 120pb marker and the just below the 140bp marker and cut to capture the band corresponding to the final PCR product (128bp) and place slices in shredder tubes.
-
-####Gel Purification of PCR:
-Gel purify, as above for the ligation clean up step. 
-- resuspend in 22ul of 10mM TRIS pH8.5 with optional 0.1% Tween-20 to reduce DNA binding to the plastic.
+![alt text](https://github.com/pedrocrisp/Wetlab-Protocols/blob/master/10bp_ladder_bead_test.png "10bp ladder AMPure bead test")
 
 ##Reagents
 ###Oligos
