@@ -10,7 +10,7 @@
 3. Dilute 1000ng of gDNA sample in 128ul of EB and add 2.0ul of the 2.5ng/ul phage DNA (5ng; 0.5% w/w)
 4. Sonicate 125ul on Convaris 200bp protocol, eg:
   * 1 x 60sec cycle of Duty 10%, intensity 5, cycles/burst 200
-5. Run 10ul on a 2% gel (~120v x 30 mins) to check for smear from ~100-500bp
+5. Run 10ul on a 1% gel (~120v x 30 mins) to check for smear from ~100-500bp
  
 ##Clean up fragmented gDNA
 1. MinElute PCR clean as per manual
