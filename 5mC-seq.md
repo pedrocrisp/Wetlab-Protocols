@@ -30,7 +30,7 @@
 |Klenow exo (low conc)	|NEB	|M0212L	|1,000 units @5,000 units/ml |$236	|Gensearch	|66		|	
 |T4 DNA Ligase (low conc)|NEB 	|M0202L	|100,000 units @400,000 units/ml|$256|Gensearch	|200		|		
 |Library Quantification Kit - Illumina/LightCycler® 480	|Kapa Biosystems |KK4854 | |$866.31 | Geneworks|		|
-|Covaris Tubes 6x16mm slit cap micro tube|Covaris|520045	|25		|		|		|25		|
+|Covaris Tubes 6x16mm slit cap micro tube|Kbiosciences|520045	|25		|$226		|TrendBio		|25		|
 					
 Optional:					
 Qubit HS dsDNA kit	Life Tech (Invitrogen)				
