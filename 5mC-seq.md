@@ -16,6 +16,25 @@
 1. MinElute PCR clean as per manual
 2. ELute twice with 17ul EB for a total 34 ul elution
 
+##Reagents
 
+|Reagent	|Supplier 	|Cat#	|size	|price ($$)	|Distributor| # 5mC preps|
+|:--|:--|:-:|:-:|:-:|:-|:-:|
+|Phage DNA	|Promega	|D1521	|250μg	|$109	|Promega | inf |
+|MinELute PCR clean Up	|Qiagen	|28004	|50 preps	|$241 |Qiagen| 25|	
+|End-It Kit	|Epicentre 	|ER81050	50 preps	| $239| Gene Target Solutions Pty Ltd	| 50|
+
+dATP	Life Tech (Invitrogen)	18252-015	250ul (10mM)	$122	
+MethylCode Kit	Life Tech (Invitrogen)	MECOV-50	50	$386	
+Next Flex Bisulfite-Seq Barcode kit	Bioo Scientific	511911	48 rxns (6 barcodes)	$567	
+Kapa HiFi HotStart U+ 2x readymix	Kapa Biosystems(Geneworks)	KK2801	1.25ml (50 x 50ul rxns)	inquire supplier	
+Klenow exo (low conc)	NEB/ Gensearch	M0212L	1,000 units @5,000 units/ml		
+T4 DNA Ligase (low conc)	NEB/ Gensearch	M0202L	100,000 units @400,000 units/ml		
+Library Quantification Kit - Illumina/LightCycler® 480	Kapa Biosystems(Geneworks)	KK4854			
+					
+Don’t need:					
+Qubit HS dsDNA kit	Life Tech (Invitrogen)				
+Sera Pure (Sera-Mag SpeedBeads)	Thermo Scientific	65152105050250	15 ml (dilute 1ml :50ml)		
+Covaris Tubes					
 
 
