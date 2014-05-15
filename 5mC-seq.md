@@ -12,9 +12,45 @@
   * 1 x 60sec cycle of Duty 10%, intensity 5, cycles/burst 200
 5. Run 10ul on a 1% gel (~120v x 30 mins) to check for smear from ~100-500bp
  
-##Clean up fragmented gDNA
+
+##Clean up fragmented DNA
+
+1. MinElute PCR clean as per manual
+2. ELute twice with 18ul EB for a total 36 ul elution
+3. Transfer 34ul for End Repair
+
+## End Repair End it Kit
+
+| 		| 1x (ul)	| __x	|
+|:--		|:-:		|:-:	|
+|DNA sample 	|34 		|	|
+|10x Buffer	|5		|	|
+|10mM dNTP mix	|5		|	|
+|10mM ATP	|5		|	|
+|End It Enzyme Mix|1		|	|
+|total		|50ul		|[16ul]	|
+
+Mix tubes gently, spin down briefly and incubate at RT for 45 mins
+
+##Clean-up Repaired DNA
+
 1. MinElute PCR clean as per manual
 2. ELute twice with 17ul EB for a total 34 ul elution
+3. Transfer 32ul for A-tailing
+
+##A-tail: add 'A' over-hang to 3' ends
+
+| 		| 1x (ul)	| __x	|
+|:--		|:-:		|:-:	|
+|DNA sample 	|32 		|	|
+|10x Buffer	|5		|	|
+|1mM dATP	|10		|	|
+|Klenow exo 	|3		|	|
+|total		|50ul		|[18ul]	|
+
+Mix tubes gently, spin down briefly and incubate on a PCR machine for 30 mins at 30°C
+
+
 
 ##Reagents
 
