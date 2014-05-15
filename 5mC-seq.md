@@ -101,12 +101,44 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 - Lift the tube off the magnetic stand, move it up one row and place it back onto the magnetic stand. Repeat 6 times. Allow the beads to settle. Discard the supernatant.
 - With the tube on the magnetic stand, repeat the wash with 180 μl of 80% EtOH. Discard the supernatant. Do not disturb the beads. 
 - Open the tube lid and transfer to a 37°C heat block for 3 minutes or until the beads are completely dry. Small cracks can be observed in the dried pellet.
-- Add 21 μl of dH<sub>2</sub>O directly to the pellet and mix thoroughly using a pipette. 
+- Add 22 μl of dH<sub>2</sub>O directly to the pellet and mix thoroughly using a pipette. 
 - Incubate for 10 minutes.
-- Place the tube in the magnetic stand for at least 2 minute to allow complete capture of the beads. When suspension is clear, transfer 20 ul of the library-containing supernatant to a new tube.
+- Place the tube in the magnetic stand for at least 2 minute to allow complete capture of the beads. When suspension is clear, transfer 21 ul of the library-containing supernatant to a new tube.
+
+## Qubit
+Qubit 1 ul of the clean ligation to check concentration, use 450ng or less for the BS-conversion.
 
 
-##Reagents
+## Bisulfite conversion
+1. Dilute samples to 450ng or less in 20 ul of EB.  
+  * If more than 450ng is used, non-conversion rate increases
+2. Perform conversion as per MethylCode kit instructions
+  * At step 2 - conversion - split the samples into 2 new tubes after mixing (75ul each), to fit in PCR machine (max vol usually 100ul) and ansure no DNA sticks up top and avoids conversion
+3. ELute in 42 ul (unless input DNA is very low).  
+  * 40ul enables duplicate PCR reactions
+
+  
+## Amplification and adapter extension of PCR
+Multiple PCR reactions (e.g. 2) can improve data quality i.e. less clonal reads.  However, if input DNA is very low it's better to only do one PCR.
+
+Start with 1 PCR using 4-6 cycles, check the raw PCR on the GXII then, if all looks good run the duplicate PCR and then proceed to AMPure purification.
+
+|			|1x (ul)	| __x|
+|:----------------------|:------:	|:--:|
+|BS converted DNA 	|20 		|--	|
+|Kapa U+ 2x PCR mix   	|25 		|	|
+|NEXTflex Primer mix	|2		|	|
+|dH<sub>2</sub>O      	|3		|	|
+|TOTAL 			|50 		|[30]	|
+
+PCR cycling
+
+|step	|	1	|	2	|	3	|	4	|	5	|	6	|7	|
+|:------|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|:------|
+|temp	|95		|98		|65		|72		|*Go to 2 x 3-5 times|	72	|4 	|
+|min	|2:00		|0:20		|0:15		|1:00		|		|	10:00	|hold	|
+
+## Reagents
 
 | Reagent	| Supplier 	| Cat#	| size		| price ($$)	| Distributor 	| # 5mC preps 	|
 |:--		|:--		|:--:	|:--:		|:--:		|:--		|:-:		|
@@ -114,9 +146,9 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 |MinELute PCR clean Up	|Qiagen	|28004	|50 preps	|$241 		|Qiagen		| 25		|	
 |End-It Kit	|Epicentre 	|ER81050|50 preps	| $239		| Gene Target Solutions Pty Ltd	| 50|
 |dATP		|Life Tech (Invitrogen)	|18252-015 |250ul (10mM) |$122	|Life Tech	|		|
-|MethylCode Kit	|Life Tech (Invitrogen)	|MECOV-50 |50	|$386		| Life Tech	|	50	|	
-|Next Flex Bisulfite-Seq Barcode kit	|Bioo Scientific	|511911	|48 rxns (6 barcodes)	|$682 |	48|
-|Kapa HiFi HotStart U+ 2x readymix	|Kapa Biosystems	|KK2801	|1.25ml |$469|Geneworks |50 x 50ul rxns |
+|MethylCode Kit	|Life Tech (Invitrogen)	|MECOV-50 |50	|$386		| Life Tech	|	50 (10x single use lots)	|	
+|Next Flex Bisulfite-Seq Barcode kit	|Bioo Scientific	|511911	|48 rxns (6 barcodes)	|$682 |	Geneworks |24 (48 x 50ul rxns)|
+|Kapa HiFi HotStart U+ 2x readymix	|Kapa Biosystems	|KK2801	|1.25ml |$469|Geneworks |25 (50 x 50ul rxns) |
 |Klenow exo (low conc)	|NEB	|M0212L	|1,000 units @5,000 units/ml |$236	|Gensearch	|66		|	
 |T4 DNA Ligase (low conc)|NEB 	|M0202L	|100,000 units @400,000 units/ml|$256|Gensearch	|200		|		
 |Library Quantification Kit - Illumina/LightCycler® 480	|Kapa Biosystems |KK4854 | |$866.31 | Geneworks|		|
