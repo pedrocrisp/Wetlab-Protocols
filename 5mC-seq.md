@@ -82,6 +82,8 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 Mix tubes gently, spin down briefly and incubate on a PCR machine overnight at 16°C
 
 *Note: could do quick ligation with conc enzyme*
+
+
 *Note2: original ligation volume was 25ul using 5ul of TruSeq V2 indicies from RNAseq kit*
 
 
