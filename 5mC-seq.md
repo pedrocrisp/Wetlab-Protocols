@@ -1,5 +1,7 @@
 #MethylC-seq library preps for Illumina Sequencing v2.6
 
+*protocol from Lister Lab Dec, 2013*
+
 ##Fragment gDNA
 
 1. Start with 1-2 ug gDNA (use 1ug of fragmented DNA in library prep)
