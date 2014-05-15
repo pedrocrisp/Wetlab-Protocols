@@ -50,6 +50,26 @@ Mix tubes gently, spin down briefly and incubate at RT for 45 mins
 
 Mix tubes gently, spin down briefly and incubate on a PCR machine for 30 mins at 30°C
 
+### AMPure XP (1.55x) clean A-tail reaction:
+Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or plate:
+
+|Reagent			|volume	|
+|:------------------------------|:------:|
+|AMPure XP bead solution	|78 μl	|
+|cDNA Reaction          	|50 μl	|
+
+- Vigorously vortex tube and incubate at room temperature for 20 minutes.
+- Place tube in magnetic stand for 5 minutes or until solution clears, to capture the beads. After the suspension is clear, remove and discard supernatant. Do not disturb bead pellet.
+- With the tube on the magnetic stand, carefully add 180 μl of 80% EtOH to the bead pellet.
+- Lift the tube off the magnetic stand, move it up one row and place it back onto the magnetic stand. Repeat 6 times. Allow the beads to settle. Discard the supernatant.
+- With the tube on the magnetic stand, repeat the wash with 180 μl of 80% EtOH. Discard the supernatant. Do not disturb the beads. 
+- Open the tube lid and transfer to a 37°C heat block for 3 minutes or until the beads are completely dry. Small cracks can be observed in the dried pellet.
+- Add 43 μl of dH<sub>2</sub>O directly to the pellet and mix thoroughly using a pipette. 
+- Incubate for 10 minutes.
+- Place the tube in the magnetic stand for at least 2 minute to allow complete capture of the beads. When suspension is clear, transfer 41.5 ul of the library-containing supernatant to a new tube.
+
+
+
 
 
 ##Reagents
