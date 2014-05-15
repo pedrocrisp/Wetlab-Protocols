@@ -23,7 +23,7 @@
 
 | 		| 1x (ul)	| __x	|
 |:--		|:-:		|:-:	|
-|DNA sample 	|34 		|	|
+|DNA sample 	|34 		|--	|
 |10x Buffer	|5		|	|
 |10mM dNTP mix	|5		|	|
 |10mM ATP	|5		|	|
@@ -42,7 +42,7 @@ Mix tubes gently, spin down briefly and incubate at RT for 45 mins
 
 | 		| 1x (ul)	| __x	|
 |:--		|:-:		|:-:	|
-|DNA sample 	|32 		|	|
+|DNA sample 	|32 		|--	|
 |10x Buffer	|5		|	|
 |1mM dATP	|10		|	|
 |Klenow exo (low conc) 	|3		|	|
@@ -73,9 +73,9 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 
 | 			| 1x (ul)	| __x	|
 |:--			|:-:		|:-:	|
-|DNA sample 		|41.5		|	|
+|DNA sample 		|41.5		|--	|
 |10x Buffer (with ATP)	|5		|	|
-|Adapter		|2.25		|	|
+|Adapter		|2.25		|--	|
 |T4 DNA ligase (low conc)|1.25		|	|
 |total			|50ul		|[6.25ul]|
 
