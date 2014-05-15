@@ -85,7 +85,7 @@ Mix tubes gently, spin down briefly and incubate on a PCR machine overnight at 1
 *Note2: original ligation volume was 25ul using 5ul of TruSeq V2 indicies from RNAseq kit*
 
 
-### AMPure XP (1.3x) clean A-tail reaction:
+### AMPure XP (1.3x) clean ligation reaction:
 Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or plate:
 
 |Reagent			|volume	|
