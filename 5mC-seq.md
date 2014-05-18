@@ -162,7 +162,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 
 ## qPCR to determine molarity of libraries
 
-Use Kapa qPCR kit according to manufacture instructions.  Should only need to make 1:1000 and 1:2000 dilution to be within the range of standards 1, 2 and 3.
+Use Kapa qPCR kit according to manufacturer instructions.  Should only need to make 1:1000 and 1:2000 dilution to be within the range of standards 1, 2 and 3.
 
 ## Reagents
 
