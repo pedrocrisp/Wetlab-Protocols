@@ -169,7 +169,7 @@ Use Kapa qPCR kit according to manufacturer instructions.  Should only need to m
 | Reagent	| Supplier 	| Cat#	| size		| price ($$)	| Distributor 	| # 5mC preps 	|
 |:--		|:--		|:--:	|:--:		|:--:		|:--		|:-:		|
 |Phage DNA	| Promega	|D1521	|250μg		|$109		|Promega 	| inf 		|
-|MinELute PCR clean Up	|Qiagen	|28004	|50 preps	|$241 		|Qiagen		| 25		|	
+|MinElute PCR clean Up	|Qiagen	|28004	|50 preps	|$241 		|Qiagen		| 25		|	
 |End-It Kit	|Epicentre 	|ER81050|50 preps	| $239		| Gene Target Solutions Pty Ltd	| 50|
 |dATP		|Life Tech (Invitrogen)	|18252-015 |250ul (10mM) |$122	|Life Tech	|		|
 |MethylCode Kit	|Life Tech (Invitrogen)	|MECOV-50 |50	|$386		| Life Tech	|	50 (10x single use lots)	|	
