@@ -173,7 +173,7 @@ Use Kapa qPCR kit according to manufacturer instructions.  Should only need to m
 |End-It Kit	|Epicentre 	|ER81050|50 preps	| $239		| Gene Target Solutions Pty Ltd	| 50|
 |dATP		|Life Tech (Invitrogen)	|18252-015 |250ul (10mM) |$122	|Life Tech	|		|
 |MethylCode Kit	|Life Tech (Invitrogen)	|MECOV-50 |50	|$386		| Life Tech	|	50 (10x single use lots)	|	
-|Next Flex Bisulfite-Seq Barcode kit	|Bioo Scientific	|511911	|48 rxns (6 barcodes)	|$682 |	Geneworks |24 (48 x 50ul rxns)|
+|Next Flex Bisulfite-Seq Barcode kit	|Bioo Scientific	|511911	|48 rxns (6 barcodes)	|$682 |	Geneworks |24 (48 barcode ligations; 48 x 50ul PCRs)|
 |Kapa HiFi HotStart U+ 2x readymix	|Kapa Biosystems	|KK2801	|1.25ml |$469|Geneworks |25 (50 x 50ul rxns) |
 |Klenow exo (low conc)	|NEB	|M0212L	|1,000 units @5,000 units/ml |$236	|Gensearch	|66		|	
 |T4 DNA Ligase (low conc)|NEB 	|M0202L	|100,000 units @400,000 units/ml|$256|Gensearch	|200		|		
