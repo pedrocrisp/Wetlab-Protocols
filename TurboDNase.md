@@ -12,9 +12,38 @@ Maxi TURBO prep for high levels of DNA.
   * Add 1.0 uL TURBO DNase (2U).
   * Mix gently with pipette.
 
+|Component|50ul (up to 10ug TNA)| 100ul (up to 20ug TNA)|
+|:--|:--:|:--|
+|DNA [ug]| < 10ug| < 20ug|
+|H<sub>2</sub>O| to 40 | to 90 |
+|10x buffer | 5 | 10|
+|TURBO DNase| 1.0 | 1.0 | 
+
 3.	Incubate at 37°C for 30 mins
 
 4.	Add another 1.0 ul of DNase and incubate for a further 30 mins.
+
+## RNA recovery: AMPure
+
+### AMPure XP (1.8x) clean A-tail reaction:
+Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or plate:
+
+|Reagent			|volume	|
+|:------------------------------|:------:|
+|AMPure XP bead solution	|90 μl	|
+|cDNA Reaction          	|50 μl	|
+
+- Vigorously vortex tube and incubate at room temperature for 20 minutes.
+- Place tube in magnetic stand for 5 minutes or until solution clears, to capture the beads. After the suspension is clear, remove and discard supernatant. Do not disturb bead pellet.
+- With the tube on the magnetic stand, carefully add 180 μl of 80% EtOH to the bead pellet.
+- Lift the tube off the magnetic stand, move it up one row and place it back onto the magnetic stand. Repeat 6 times. Allow the beads to settle. Discard the supernatant.
+- With the tube on the magnetic stand, repeat the wash with 180 μl of 80% EtOH. Discard the supernatant. Do not disturb the beads. 
+- Open the tube lid and transfer to a 37°C heat block for 3 minutes or until the beads are completely dry. Small cracks can be observed in the dried pellet.
+- Add 21 μl (or desired volume + 1 ul) of dH<sub>2</sub>O directly to the pellet and mix thoroughly using a pipette. 
+- Incubate for 10 minutes.
+- Place the tube in the magnetic stand for at least 2 minute to allow complete capture of the beads. When suspension is clear, transfer 20 ul of the RNA-containing supernatant to a new tube.
+
+## RNA recovery: Phenol:chloroform + precipitation
 
 5.	Add 100 ul of phenol-chloroform, mix by inverting or shaking until thoroughly mixed.
 
@@ -33,3 +62,5 @@ Maxi TURBO prep for high levels of DNA.
 11.	Remove EtOH with pipette. Pulse spin and remove remaining EtOH. Air dry 5 ins RT.
 
 12.	Re-suspend in H<sub>2</sub>O or TRIS (eg 20uL).
+13.	
+
