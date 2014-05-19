@@ -15,7 +15,7 @@ Maxi TURBO prep for high levels of DNA.
 |Component|50ul (up to 10ug TNA)| 100ul (up to 20ug TNA)|
 |:--|:--:|:--|
 |DNA [ug]| < 10ug| < 20ug|
-|H<sub>2</sub>O| to 40 | to 90 |
+|H<sub>2</sub>O| to 45 | to 90 |
 |10x buffer | 5 | 10|
 |TURBO DNase| 1.0 | 1.0 | 
 
