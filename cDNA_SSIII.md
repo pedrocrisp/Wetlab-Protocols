@@ -1,6 +1,7 @@
 #cDNA SSIII
 Invitrogen Cat. 18080-044
-##20 uL cDNA Synthesis Invitrogen SS III First Strand cDNA Synthesis Kit
+##20 uL cDNA Synthesis 
+This protocol uses Invitrogen SuperScript III First Strand cDNA Synthesis Kit
 
 1. Prepare 1ug/10uL alliquots of total RNA
   * (it’s a good idea to prepare 50ul or more of each RNA sample @ 100ng/uL to use for cDNA, gels, etc)
