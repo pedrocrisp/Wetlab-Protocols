@@ -49,6 +49,6 @@ Invitrogen Cat. 18080-044
   * I prefer 1:4 dilution ie add 80ul of H2O to the 20 ul of cDNA; or 1:1.5 if target gene is low abundance eg APX2
 
 ##Negative control options
-  * **No template control** – omits the DNA or RNA template from the PCR reaction. This reaction serves as a general control for unwanted nucleic acid contamination or primer dimmer formation that may make the results more difficult to interpret when using SYBR Green chemistry.		
+  * **No template control** – omits the DNA or RNA template from the qPCR reaction. This reaction serves as a general control for unwanted nucleic acid contamination or primer dimmer formation that may make the results more difficult to interpret when using SYBR Green chemistry.		
   * **No reverse transcriptase control** – omits the reverse transcriptase in the reverse transcription step of a qRT-PCR reaction.  The purpose of this control is to assess the amount of DNA contamination present in an RNA preparation.
-  * **No amplification control** - omits the DNA polymerase from the PCR reaction. This reaction serves as a control for background fluorescence of the PCR which may occur if the dual-labeled probe is degraded.						
+  * **No amplification control** - omits the DNA polymerase from the PCR reaction. This reaction serves as a control for background fluorescence of the PCR which may occur if a dual-labeled probe is degraded.						
