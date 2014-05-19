@@ -25,13 +25,14 @@ Maxi TURBO prep for high levels of DNA.
 
 ## RNA recovery: AMPure
 
-### AMPure XP (1.8x) clean A-tail reaction:
+### AMPure XP (1.8x) clean:
 Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or plate:
+*Note AMPure XP are not guaranteed RNase free...*
 
 |Reagent			|volume	|
 |:------------------------------|:------:|
 |AMPure XP bead solution	|90 μl	|
-|cDNA Reaction          	|50 μl	|
+|RNA          	|50 μl	|
 
 - Vigorously vortex tube and incubate at room temperature for 20 minutes.
 - Place tube in magnetic stand for 5 minutes or until solution clears, to capture the beads. After the suspension is clear, remove and discard supernatant. Do not disturb bead pellet.
