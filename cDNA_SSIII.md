@@ -15,7 +15,7 @@ Invitrogen Cat. 18080-044
 |:--|:--:|:--:|:--:|:--:|
 |dT(18)VN	|	|2.5uM	|50pmol/uL	|1|
 |dNTPs	|	|1mM	|10mM	|1|
-|H2O	||			||2.5|
+|H<sub>2</sub>O	||			||2.5|
 |total|[	4.5]|||4.5|
 
 4. Add 4.5uL of oligoDT master to each reaction to make a total volume of 14.5uL
@@ -46,7 +46,7 @@ Invitrogen Cat. 18080-044
 12. Store at -20°C
 
 13. It is recommended that you dilute your cDNA to make it go further. 1ul = 1 qPCR reaction.
-  * I prefer 1:4 dilution ie add 80ul of H2O to the 20 ul of cDNA; or 1:1.5 if target gene is low abundance eg APX2
+  * I prefer 1:4 dilution ie add 80ul of H<sub>2</sub>O to the 20 ul of cDNA; or 1:1.5 if target gene is low abundance eg *APX2*
 
 ##Negative control options
   * **No template control** – omits the DNA or RNA template from the qPCR reaction. This reaction serves as a general control for unwanted nucleic acid contamination or primer dimmer formation that may make the results more difficult to interpret when using SYBR Green chemistry.		
