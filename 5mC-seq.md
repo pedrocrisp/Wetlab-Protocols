@@ -15,7 +15,7 @@
 5. Run 10ul on a 1% gel (~120v x 30 mins) to check for smear from ~100-500bp
  
 
-##Clean up fragmented DNA
+###Clean up fragmented DNA
 
 1. MinElute PCR clean as per manual
 2. ELute twice with 18ul EB for a total 36 ul elution
@@ -34,7 +34,7 @@
 
 Mix tubes gently, spin down briefly and incubate at RT for 45 mins
 
-##Clean-up Repaired DNA
+###Clean-up Repaired DNA
 
 1. MinElute PCR clean as per manual
 2. ELute twice with 17ul EB for a total 34 ul elution
