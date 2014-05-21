@@ -115,7 +115,7 @@ Qubit 1 ul of the clean ligation to check concentration, use 450ng or less for t
 1. Dilute samples to 450ng or less in 20 ul of EB.  
   * If more than 450ng is used, non-conversion rate increases
 2. Perform conversion as per MethylCode kit instructions
-  * At step 2 - conversion - split the samples into 2 new tubes after mixing (75ul each), to fit in PCR machine (max vol usually 100ul) and ansure no DNA sticks up top and avoids conversion
+  * At step 2 - conversion - split the samples into 2 new tubes after mixing (75ul each), to fit in PCR machine (max vol usually 100ul) and ensure no DNA sticks up top and evades conversion
 3. ELute in 42 ul (unless input DNA is very low).  
   * 40ul enables duplicate PCR reactions
 
