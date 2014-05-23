@@ -58,7 +58,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 |Reagent			|volume	|
 |:------------------------------|:------:|
 |AMPure XP bead solution	|78 μl	|
-|cDNA Reaction          	|50 μl	|
+|DNA Reaction   	       	|50 μl	|
 
 - Vigorously vortex tube and incubate at room temperature for 20 minutes.
 - Place tube in magnetic stand for 5 minutes or until solution clears, to capture the beads. After the suspension is clear, remove and discard supernatant. Do not disturb bead pellet.
@@ -95,7 +95,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 |Reagent			|volume	|
 |:------------------------------|:------:|
 |AMPure XP bead solution	|65 μl	|
-|cDNA Reaction          	|50 μl	|
+|DNA Reaction          		|50 μl	|
 
 - Vigorously vortex tube and incubate at room temperature for 20 minutes.
 - Place tube in magnetic stand for 5 minutes or until solution clears, to capture the beads. After the suspension is clear, remove and discard supernatant. Do not disturb bead pellet.
@@ -116,7 +116,7 @@ Qubit 1 ul of the clean ligation to check concentration, use 450ng or less for t
   * If more than 450ng is used, non-conversion rate increases
 2. Perform conversion as per MethylCode kit instructions
   * At step 2 - conversion - split the samples into 2 new tubes after mixing (75ul each), to fit in PCR machine (max vol usually 100ul) and ensure no DNA sticks up top and evades conversion
-3. ELute in 42 ul (unless input DNA is very low).  
+3. Elute in 42 ul (unless input DNA is very low).  
   * 40ul enables duplicate PCR reactions
 
   
@@ -148,7 +148,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 |Reagent			|volume	|
 |:------------------------------|:------:|
 |AMPure XP bead solution	|65 μl	|
-|cDNA Reaction          	|50 μl	|
+|DNA Reaction   	     	|50 μl	|
 
 - Vigorously vortex tube and incubate at room temperature for 20 minutes.
 - Place tube in magnetic stand for 5 minutes or until solution clears, to capture the beads. After the suspension is clear, remove and discard supernatant. Do not disturb bead pellet.
