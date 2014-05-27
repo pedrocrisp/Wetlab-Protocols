@@ -8,9 +8,12 @@
   * Best method: Destain by submerging leaf in ethanol:acetic acid: glycerol solution (3:1:1) and placing tube at 95°C for 10 mins, replace solution and incubate at RT for 30 mins.
   * Alternative method: Destain overnight by submerging leaf in 100% ethanol
   
----
+___
   
 ##References:
+
 Pornsiriwong, W., 2011. The Signalling of Drought Stress in Arabidopsis.
+
 Thordal-Christensen, H., Zhang, Z., Wei, Y., Collinge, D.B., 1997. Subcellular localization of H2O2 in plants. H2O2 accumulation in papillae and hypersensitive response during the barley—powdery mildew interaction. The Plant Journal 11, 1187–1194. doi:10.1046/j.1365-313X.1997.11061187.x
+
 Galvez-Valdivieso, G., Fryer, M.J., Lawson, T., Slattery, K., Truman, W., Smirnoff, N., Asami, T., Davies, W.J., Jones, A.M., Baker, N.R., Mullineaux, P.M., 2009. The High Light Response in Arabidopsis Involves ABA Signaling between Vascular and Bundle Sheath Cells. Plant Cell 21, 2143–2162. doi:10.1105/tpc.108.061507
