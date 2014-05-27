@@ -3,7 +3,7 @@
 1. Dissolve DAB in acidic H<sub>2</sub>O (pH 3.8) to 1mg/mL (~5mM).  Add a drop of 1M HCl if DAB will not dissolve.
 2. Excise leaf at base of petiole and place in a 1.5ml tube or similar such that the end of the petiole is submerged (to take up the DAB).
 3. Incubate at RT for 1 hour.
-4. If perfomring excess-light treatment, keep leaf in DAB tube and place under the excess-light.
+4. If performing excess-light treatment, keep leaf in DAB tube and place under the excess-light.
 5. Destain:
   * Best method: Destain by submerging leaf in ethanol:acetic acid: glycerol solution (3:1:1) and placing tube at 95°C for 10 mins, replace solution and incubate at RT for 30 mins.
   * Alternative method: Destain overnight by submerging leaf in 100% ethanol
