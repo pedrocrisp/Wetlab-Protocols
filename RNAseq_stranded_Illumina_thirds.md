@@ -4,13 +4,16 @@
 
 
 ## Poly A select mRNA
-1 Dilute up to 1.3 μg total RNA in H<sub>2<\sub>O to a final volume of 16.67 μl.
+1 Dilute up to 1.3 μg total RNA in H<sub>2</sub>O to a final volume of 16.67 μl.
 2 Vortex RNA Purification Beads and add 16.67 μl to RNA sample.
-3.	Mix by pipeting up and down until beads are in a homogenous suspension.
-4.	Incubate in thermocycler:
-65˚ C – 5 min
-4˚ C - hold
-5.	When thermocycler reaches 4˚ C remove sample and place on bench at room temperature for 5 min.
+3 Mix by pipeting up and down until beads are in a homogenous suspension.
+4 Incubate in thermocycler:
+|˚C | time|
+|:-:|:-:|
+|65˚C | 5 min|
+|4˚C | hold |
+
+5 When thermocycler reaches 4˚C remove sample and place on bench at room temperature for 5 min.
 6.	Place sample in magnetic rack for 5 min.
 7.	Remove and discard all the supernatant.
 8.	Remove sample from rack.
