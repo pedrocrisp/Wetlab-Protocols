@@ -1,71 +1,118 @@
 #Illumina Truseq mRNA stranded kit protocol, one-third reaction volumes
 
-  *Originally adapted from [Ethan Ford](http://ethanomics.wordpress.com/truseq-rna-library-preparation-kit-v2-using-one-third-the-reagents/)* 
+  *Largely reproduced from [Ethan Ford](http://ethanomics.wordpress.com/truseq-rna-library-preparation-kit-v2-using-one-third-the-reagents/) with modifications* 
 
 
-## Poly A select mRNA
-1 Dilute up to 1.3 μg total RNA in H<sub>2</sub>O to a final volume of 16.67 μl.
-2 Vortex RNA Purification Beads and add 16.67 μl to RNA sample.
-3 Mix by pipeting up and down until beads are in a homogenous suspension.
-4 Incubate in thermocycler:
-|˚C | time|
-|:-:|:-:|
-|65˚C | 5 min|
-|4˚C | hold |
+**PolyA select mRNA**
 
-5 When thermocycler reaches 4˚C remove sample and place on bench at room temperature for 5 min.
-6.	Place sample in magnetic rack for 5 min.
-7.	Remove and discard all the supernatant.
-8.	Remove sample from rack.
-9.	Add 66.7 μl of Bead Washing Buffer and pipet up and down until beads are in a homogenous suspension.
-10.	Place the sample back in the magnetic rack for 5 min.
-11.	Remove and discard all the supernatant.
-12.	Add 16.67 μl of Elution Buffer and pipet up and down until beads are in a homogenous suspension.
-13.	Incubate in thermocycler:
-80˚ C – 2 min
-25˚ C - hold
-14.	Remove sample from thermocycler when it reaches 25˚ C and keep at room temp.
-15.	Add 16.67 μl of Bead Binding Buffer and pipet up and down until beads are in a homogenous suspension.
-16.	Incubate at room temperature for 5 min.
-17.	Place sample in magnetic separator for 5 min.
-18.	Remove and discard all supernatant.
-19.	Remove sample from rack.
-20.	Add 66.7 μl of Bead Washing Buffer and pipet up and down until beads are in a homogenous suspension.
-21.	Place sample in magnetic separator for 5 min.
-22.	Remove and discard all supernatant.
-23.	Add 6.5 μl Elute, Prime, Fragment Mix and pipet up and down until beads are in a homogenous suspension.
-24.	Incubate in thermocycler:
-94˚ C – 8 min
-4˚ C – hold
-25.	Place sample in magnetic rack for 5 min.
-26.	Transfer 5.67 μl of the supernatant to a new 0.2 ml PCR tube.
-First Strand Synthesis
-27.	Make First Strand Mater Mix by mixing:
-9 μl First Strand Synthesis Act D Mix
-1 μl SuperScript II
-28.	Add 2.67 μl First Strand Master Mix/Super Script II mix to sample.
-29.	Incubate in thermocycler:
-25˚ C – 10 min
-42˚ C – 15 min
-70˚ C – 15 min
-4˚ C – hold
-Second Strand Synthesis
-30.	Add:
-1.67 μl Resuspension Buffer
- 6.67 μl of Second Strand Master Mix to sample.
-31.	Incubate in thermocycler at 16˚ C for 1 hour.
-32.	Remove sample from thermocycler and let warm to room temperature.
-33.	Add 30 μl of well-mixed AMPure XP beads and mix by pipetting up and down until beads are in a homogenous suspension (see note #5).
-34.	Incubate at room temperature for 15 min.
-35.	Place on magnetic rack for 5 min.
-36.	Remove and discard 45 μl of the supernatant.
-37.	Keep sample in magnetic rack and add 200 μl of 80% ethanol.
-38.	Incubate for 30 seconds.  Remove and discard all supernatant.
-39.	Repeat step 37 and 38 once more for a total of two washes.
-40.	Add 6.67 μl Resuspension Buffer and pipet up and down until beads are in a homogenous suspension.
-41.	Incubate at room temperature for 2 min.
-42.	Place in magnetic rack for 5 min.
-43.	Transfer 5.83 μl of the supernatant to a new 0.2 ml PCR tube.
+1. Dilute up to 1.3 μg total RNA in H<sub>2</sub>O to a final volume of 16.7 μl.
+2. Vortex RNA Purification Beads and add 16.7 μl to RNA sample.
+3. Mix by pipeting up and down until beads are in a homogenous suspension.
+4. Incubate in thermocycler:
+
+   |˚C | time|
+   |:-:|:-:|
+   |65˚C | 5 min|
+   |4˚C | hold |
+
+5. When thermocycler reaches 4˚C remove sample and place on bench at room temperature for 5 min.
+6. Place sample in magnetic rack for 5 min.
+7. Remove and discard all the supernatant.
+8. Remove sample from rack.
+9. Add 66.7 μl of Bead Washing Buffer and pipet up and down until beads are in a homogenous suspension.
+10. Place the sample back in the magnetic rack for 5 min.
+11. Remove and discard all the supernatant.
+12. Add 16.7 μl of Elution Buffer and pipet up and down until beads are in a homogenous suspension.
+13. Incubate in thermocycler:
+
+   |˚C | time|
+   |:-:|:-:|
+   |80˚C | 2 min|
+   |25˚C | hold |
+
+14. Remove sample from thermocycler when it reaches 25˚ C and keep at room temp.
+15. Add 16.7 μl of Bead Binding Buffer and pipet up and down until beads are in a homogenous suspension.
+16. Incubate at room temperature for 5 min.
+17. Place sample in magnetic separator for 5 min.
+18. Remove and discard all supernatant.
+19. Remove sample from rack.
+20. Add 66.7 μl of Bead Washing Buffer and pipet up and down until beads are in a homogenous suspension.
+21. Place sample in magnetic separator for 5 min.
+22. Remove and discard all supernatant.
+23. Add 6.5 μl Elute, Prime, Fragment Mix and pipet up and down until beads are in a homogenous suspension.
+24. Incubate in thermocycler (frag time can be between 1-8 mins, although median fragment size does not change significantly, only tail increases):
+
+   |˚C | time|
+   |:-:|:-:|
+   |94˚C | 7 min|
+   |4˚C | hold |
+
+25. Immediately place sample in magnetic rack for 5 min.
+26. Transfer 5.7 μl of the supernatant to a new 0.2 ml PCR tube.
+
+   **First Strand Synthesis**
+
+27. Make First Strand Mater Mix, add 2.7 ul to RNA and mix gently:
+
+
+   | Component 			| 1x 		| __x Master 	|
+   |:-:|:-:|:-:|
+   | RNA 			| 5.7 ul	| --- 		|
+   | Illumina 1st Strand Buffer	| 2.43 ul	|  		|
+   | SSIII (or SSII) 		| 0.27 ul	| 		|
+   | Total			| 8.4 ul	| [2.7]		|
+
+   *User provides SuperScript which is mixed 1:9 with the Illumina buffer*
+
+29. Incubate in thermocycler:
+
+   |˚C | time|
+   |:-:|:-:|
+   |25˚C | 10 min|
+   |50˚C* | 15 mins |
+   |70˚C | 15 mins |
+   |4˚C  | hold	 |
+   
+   *42˚C for SSII or 50˚C for SSIII
+
+   *Safe stoping point, store at -20˚C*
+
+   
+   **Second Strand Synthesis**
+   
+30. To the 1st strand reaction add:
+
+   |Component | volume|
+   |:-:|:-:|
+   | 1st strand reaction |8.4 ul |
+   |Resuspension Buffer* | 1.7 ul |
+   |Second Strand Master Mix to sample | 6.7 ul  |
+   |Total				| 16.8 ul |
+
+   **or Illumina In-line control*
+
+31. Incubate in thermocycler:
+
+   |˚C | time|
+   |:-:|:-:|
+   |16˚C | 1 hour|
+   |24˚C | hold |
+
+32. Remove sample from thermocycler and let warm to room temperature.
+
+   ** 1.8x AMPure**
+
+33. Add 30 μl of well-mixed AMPure XP beads and mix by pipetting up and down until beads are in a homogenous suspension.
+34. Incubate at room temperature for 15 min.
+35. Place on magnetic rack for 5 min.
+36. Remove and discard 45 μl of the supernatant.
+37. Keep sample in magnetic rack and add 200 μl of 80% ethanol.
+38. Incubate for 30 seconds.  Remove and discard all supernatant.
+39. Repeat step 37 and 38 once more for a total of two washes.
+40. Add 6.67 μl Resuspension Buffer and pipet up and down until beads are in a homogenous suspension.
+41. Incubate at room temperature for 2 min.
+42. Place in magnetic rack for 5 min.
+43. Transfer 5.83 μl of the supernatant to a new 0.2 ml PCR tube.
 Add ‘A’ bases to 3’ ends
 44.	Add 4.17 μl A-Tailing Mix to sample.
 45.	Incubate in thermocycler:
