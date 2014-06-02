@@ -89,7 +89,7 @@
    |Second Strand Master Mix to sample | 6.7 ul  |
    |Total				| 16.8 ul |
 
-   **or Illumina In-line control*
+   *or Illumina In-line control
 
 31. Incubate in thermocycler:
 
@@ -106,49 +106,73 @@
 34. Incubate at room temperature for 15 min.
 35. Place on magnetic rack for 5 min.
 36. Remove and discard 45 μl of the supernatant.
-37. Keep sample in magnetic rack and add 200 μl of 80% ethanol.
+37. Keep sample in magnetic rack and add 1800 μl of 80% ethanol.
 38. Incubate for 30 seconds.  Remove and discard all supernatant.
 39. Repeat step 37 and 38 once more for a total of two washes.
-40. Add 6.67 μl Resuspension Buffer and pipet up and down until beads are in a homogenous suspension.
+40. Add 6.7 μl Resuspension Buffer and pipet up and down until beads are in a homogenous suspension.
 41. Incubate at room temperature for 2 min.
 42. Place in magnetic rack for 5 min.
-43. Transfer 5.83 μl of the supernatant to a new 0.2 ml PCR tube.
-Add ‘A’ bases to 3’ ends
-44.	Add 4.17 μl A-Tailing Mix to sample.
-45.	Incubate in thermocycler:
-37˚C – 30 min
-70˚C – 5 min
-4˚C – hold
+43. Transfer 5.83 μl of the supernatant to a new 0.2 ml PCR tube (reduce volume by 0.83 ul if adding in-line control at next step).
 
-Ligate Adapters to DNA fragments
-46.	Add:	 0.83 μl DNA Ligase Mix
-0.83 μl Resuspension Buffer
-0.83 μl RNA Adapter Index
-47.	Incubate at 30˚ C for 10 min
-48.	Add 1.67 μl Stop Ligase Mix
-49.	Add 14 μl of well-mixed AMPure XP beads and mix by pipetting up and down until beads are in a homogenous suspension.
-50.	Incubate at room temperature for 15 min.
-51.	Place on magnetic rack for at least 5 min.
-52.	Remove and discard 26.5 μl of the supernatant.
-53.	Keep sample in magnetic rack and add 200 μl of 80% ethanol.
-54.	Incubate for 30 seconds.  Remove and discard all supernatant.
-55.	Repeat steps 53 and 54 one more time.
-56.	Add 18.67 μl Resuspension Buffer and pipet up and down and mix by pipetting up and down until beads are in a homogenous suspension.
-57.	Incubate at room temperature for 5 min.
-58.	Place in magnetic rack for 5 min.
-59.	Transfer 16.67 μl of the supernatant to a new 0.2 ml PCR tube.
-60.	Add 16.67 μl of well-mixed AMPure XP beads.
-61.	Incubate at room temperature for 15 min.
-62.	Place on magnetic rack for at least 5 min.
-63.	Remove and discard 28.34 μl of the supernatant.
-64.	Keep sample in magnetic rack and add 200 μl of 80% ethanol.
-65.	Incubate for 30 seconds.  Remove and discard all supernatant.
-66.	Repeat steps 64 and 65 one more time.
-67.	Add 9.67 μl Resuspension Buffer and pipet up and down 10 times.
-68.	Incubate at room temperature for 5 min.
-69.	Place in magnetic rack for 5 min.
-70.	Transfer 7.67 μl of the supernatant to a new 0.2 ml PCR tube.
-71.	Use 1 μl to determine number of cycles to perform in following PCR amplification (see note #6).
+   **Add ‘A’ bases to 3’ ends**
+   
+44. To cDNA add 
+
+   |Component 		| volume|
+   |:-:|:-:|
+   | cDNA	 	| 5.83 ul |
+   |A-tail Mix		| 4.17 ul  |
+   |Total		| 10 ul |
+
+   
+45. Incubate in thermocycler:
+
+   |˚C | time|
+   |:-:|:-:|
+   |37˚C | 30 mins|
+   |70˚C | 5 mins | 
+   |4˚C  | hold |
+
+   **Ligate Adapters to DNA fragments**
+   
+46. To A-tail reaction add:	 
+
+   |Component 			| volume |
+   |:-:|:-:|
+   | A-tail reaction	 	| 10 ul |
+   | Resuspension Buffer	| 0.83 ul  |
+   | RNA Adapter Index		| 0.83 ul  |
+   | DNA Ligase Mix		| 0.83 ul  |
+   |Total		 	| 10 ul (14.16 after stop added) |
+
+47. Incubate at 30˚C for 10 min
+48. Add 1.7 μl Stop Ligase Mix
+
+   **1.0x AMPure**
+
+49. Add 14 μl of well-mixed AMPure XP beads and mix by pipetting up and down until beads are in a homogenous suspension.
+50. Incubate at room temperature for 15 min.
+51. Place on magnetic rack for at least 5 min.
+52. Remove and discard 26.5 μl of the supernatant.
+53. Keep sample in magnetic rack and add 180 μl of 80% ethanol.
+54. Incubate for 30 seconds.  Remove and discard all supernatant.
+55. Repeat steps 53 and 54 one more time.
+56. Add 18.7 μl Resuspension Buffer and pipet up and down and mix by pipetting up and down until beads are in a homogenous suspension.
+57. Incubate at room temperature for 5 min.
+58. Place in magnetic rack for 5 min.
+59. Transfer 16.7 μl of the supernatant to a new 0.2 ml PCR tube.
+60. Add 16.7 μl of well-mixed AMPure XP beads.
+61. Incubate at room temperature for 15 min.
+62. Place on magnetic rack for at least 5 min.
+63. Remove and discard 28.34 μl of the supernatant.
+64. Keep sample in magnetic rack and add 200 μl of 80% ethanol.
+65. Incubate for 30 seconds.  Remove and discard all supernatant.
+66. Repeat steps 64 and 65 one more time.
+67. Add 10.7 μl Resuspension Buffer and pipet up and down 10 times.
+68. Incubate at room temperature for 5 min.
+69. Place in magnetic rack for 5 min.
+70. Transfer 9.5 μl of the supernatant to a new 0.2 ml PCR tube.
+71. Use 1 μl to determine number of cycles to perform in following PCR amplification (see note #6).
 Amplify Library by PCR
 72.	Mix:	 6.67 μl Adapter ligated DNA from step 71
  1.67 μl PCR Primer Cocktail
