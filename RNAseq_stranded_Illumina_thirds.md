@@ -1,14 +1,11 @@
 #Illumina Truseq mRNA stranded kit protocol, one-third reaction volumes
 
   *Originally adapted from [Ethan Ford](http://ethanomics.wordpress.com/truseq-rna-library-preparation-kit-v2-using-one-third-the-reagents/)* 
-  
-TruSeq mRNA Stranded kit protocol translated into plain English (with one-third reaction volumes and some minor changes)
-by Ethan Ford
-Version June 3rd, 2013
 
-Poly A select mRNA
-1.	Mix 1.3 μg total RNA (see note #4) and H2O to a final volume of 16.67 μl.
-2.	Vortex RNA Purification Beads and add 16.67 μl to RNA sample.
+
+## Poly A select mRNA
+1 Dilute up to 1.3 μg total RNA in H<sub>2<\sub>O to a final volume of 16.67 μl.
+2 Vortex RNA Purification Beads and add 16.67 μl to RNA sample.
 3.	Mix by pipeting up and down until beads are in a homogenous suspension.
 4.	Incubate in thermocycler:
 65˚ C – 5 min
