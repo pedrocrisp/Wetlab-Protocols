@@ -1,6 +1,6 @@
 #Illumina Truseq mRNA stranded kit protocol, one-third reaction volumes
 
-  *Largely reproduced from [Ethan Ford](http://ethanomics.wordpress.com/truseq-rna-library-preparation-kit-v2-using-one-third-the-reagents/) with modifications* 
+  *This great idea was not my idea, reproduced from [Ethan Ford](http://ethanomics.wordpress.com/truseq-rna-library-preparation-kit-v2-using-one-third-the-reagents/) with modifications* 
 
 
 **PolyA select mRNA**
@@ -172,59 +172,75 @@
 68. Incubate at room temperature for 5 min.
 69. Place in magnetic rack for 5 min.
 70. Transfer 9.5 μl of the supernatant to a new 0.2 ml PCR tube.
-71. Use 1 μl to determine number of cycles to perform in following PCR amplification (see note #6).
-Amplify Library by PCR
-72.	Mix:	 6.67 μl Adapter ligated DNA from step 71
- 1.67 μl PCR Primer Cocktail
- 8.33 μl PCR Master Mix
+
+    **qPCR quantify the library pre-PCR enrichment**
+
+71. Use 1 μl to determine number of cycles to perform in the following PCR amplification.
+72. Dilute 1ul of library into 9 ul of water
+73. Using the Kapa qPCR kit for Illumina run 10uL reactions in technical duplicate and determine the pM of the libraries.
+74. Use the following formula to calculate the cycles needed, aim for 20-30nM, ideally then normalise DNA input based on lowest concentration sample so all samples get the same PCR cycles. Alternatively, normalised post-PCR.
+
+
+    ```
+    ([conc]) x d x ex) = 20,000
+    
+    [conc] = pM of pre-PCR library
+    d	 = dilution of library postPCR cleanup
+    e	 = PCR efficiency
+    
+    eg. Sample#1:
+    235pM pre-PCR concentration 
+    will use 6.67 ul in PCR 
+    re-suspend PCR product in a volume of 11ul after cleanup
+    PCR efficiency in qPCR was 1.94
+
+    ([235] x (6.67/11) x 1.94x = 20000
+    Cycles = log(1.94)(20000/235x0.61)
+    Cycles = 7.46 cycles
+
+    ```
+ 
+    **Amplify Library by PCR**
+    
+72. Mix:	 
+
+
+   |Component 			| volume |
+   |:-:|:-:|
+   | 6.67 μl Adapter ligated DNA	 	| 6.7 ul |
+   | PCR Primer Cocktail	| 1.7 ul  |
+   | PCR Master Mix		| 8.3 ul  |
+   |Total		 	| 16.7 ul |
 
 73.	Amplify with the following PCR protocol:
-a. 98˚ C for 30 seconds
-b. 5 to 18 cycles of (see note #1):
-	98˚ C for 10 seconds
-	60˚ C for 30 seconds
-	72˚ C for 30 seconds
-c. 72˚ C for 5 min
-d. Hold at 4˚ C
-74.	Add 16.67 μl of well-mixed AMPure XP beads.
-75.	Incubate at room temperature for 15 min.
-76.	Place on magnetic rack for at least 5 min.
-77.	Remove and discard 28.3 μl of the supernatant.
-78.	Keep sample in magnetic rack and add 200 μl of 80% ethanol.
-79.	Incubate for 30 seconds.  Remove and discard all supernatant.
-80.	Repeat steps 78 and 79 one more time.
-81.	Let the beads dry at room temperature for 2 min.
-82.	Add 12 μl Resuspension Buffer and pipet up and down 10 times.
-83.	Incubate at room temperature for 2 min.
-84.	Place in magnetic rack for 5 min.
-85.	Transfer 10 μl of the supernatant to a new 1.5 ml PCR tube.
-86.	Use 1 μl for qPCR quantitation (http://ethanomics.wordpress.com/ngs-qpcr-library-quantitation-protocol/) and run 1 μl on the Bioanalyzer.
 
-Notes:
-1) This protocol assumes you know basic molecular biology practices, for instance that you should mix a reaction by pipetting after adding enzyme.
-2) After thawing kit, all reagents stored at -20˚C should be mixed and then briefly spun down in microfuge before opening.  Likewise, the RNA purification beads and AMPure XP beads should be well mixed by vortexing so that they are in a homogenous solution before using.
-3) Programing all the incubations into the thermocycler before you start will make your life easier.
-4) The amount of starting RNA is flexible. Some cell types with low mRNA quantity will require more total RNA. Likewise, if you do not have 500 ng of total RNA, with some cell types you may be able to get away with using a lot less.
-5) AMPure XP guidelines:
-		a) Make sure that you achieve a homogenous solution of the beads and your sample by pipetting up and down a sufficient number of times.
-		b) When removing the supernatant after the binding step, remove all but 5 μl with a P200 pipetman. Then go back, using a P20, and carefully remove as much of the last 5 μl as you can without taking any beads.
-		c) When washing with 80% ethanol the beads stick to the wall of the tube better so you can remove the supernatant more quickly.  I make sure I remove all traces of ethanol by going through each tube a second time with a new pipet tip.
-		d) Illumina recommends drying the beads, not only is this a waste of time but it probably reduces yield.
-		e) At the elution step, when transferring the eluted DNA to a new tube, it is important not to accidentally carryover any beads. I carefully look inside the tube as I am pipetting up the eluted DNA to make sure I don’t accidentally take up any beads. Then I look at the eluted DNA in the pipet tip to see if I can see any beads. If there are, simply pipet the sample back into the tube you took it from, place it in the magnetic rack and wait a few minutes for the sample to separate again. At this step it is important to leave at least 1 μl behind, as it is not possible to remove all the liquid and not take any beads.
+    |step	|	1	|	2	|	3	|	4	|	5	|7	    |
+    |:------|:--------------|:--------------|:--------------|:--------------|:--------------|:------|
+    |temp	|98		|98		|60		|72		|*Go to 2 x 34 times*|	4 |
+    |min	|0:30		|0:10		|0:30		|0:30		|		|hold|
 
-6) Determine number of PCR cycles to perform by using accompanying PCR cycle quantitation protocol (http://ethanomics.wordpress.com/ngs-pcr-cycle-quantitation-protocol/).
-PCR Primer Quantification Mix
-1.	Resuspend TruSeq PCR Primer 1 and TruSeq PCR Primer 2 in TE/10 (10 mM Tris-HCl, pH 8.0, 0.1 mM EDTA) to a concentration of 100 μM.
-2.	In new tube mix: 	25 μl TruSeq PCR Primer 1 (100 μM)
-25 μl TruSeq PCR Primer 2 (100 μM)
-50 μl H2O
-TruSeq PCR 1
-AATGATACGGCGACCACCGA*G
+74. Take 1 ul and dilute into 9 ul water and run on GXII DNA-HS.  If cycle number is insufficient, run more cycles.  *Note that the upper maker progressively runs worse with each sample, seemingly due to the Illumina PCR buffer (runs fine after clean-up). This means that after the first few samples the reported conc/molarity is totally bogus, although the smears seem resonable relative to each other.*
 
-TruSeq PCR 2
-CAAGCAGAAGACGGCATACGA*G
+    **AMPure 1.0x**
 
-* = phosphorothioate bond
+74. In a fresh tube, add and equal volume of well-mixed AMPure XP beads (probably 15.5 ul) to the PCR.
+76. Place on magnetic rack for at least 5 min.
+77. Remove and discard 28.3 μl of the supernatant.
+78. Keep sample in magnetic rack and add 200 μl of 80% ethanol.
+79. Incubate for 30 seconds.  Remove and discard all supernatant.
+80. Repeat steps 78 and 79 one more time.
+81. Let the beads dry at room temperature for 2 min.
+82. Add 11 μl Resuspension Buffer and pipet up and down 10 times.
+83. Incubate at room temperature for 2 min.
+84. Place in magnetic rack for 5 min.
+85. Transfer 9.8 μl of the supernatant to a new 1.5 ml PCR tube.
+
+
+   **Quantify and pool**
+    
+86. Use 1 μl for GXII DNA-HS and 1ul for the Qubit DNA-HS.
+
+
 
 
 
