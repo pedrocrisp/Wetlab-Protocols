@@ -3,7 +3,7 @@
   *This great idea was not my idea, reproduced from [Ethan Ford](http://ethanomics.wordpress.com/truseq-rna-library-preparation-kit-v2-using-one-third-the-reagents/) with modifications* 
 
 
-**PolyA select mRNA**
+**PolyA select mRNA, fragment and primer for 1st strand synthesis**
 
 1. Dilute up to 1.3 μg total RNA in H<sub>2</sub>O to a final volume of 16.7 μl.
 2. Vortex RNA Purification Beads and add 16.7 μl to RNA sample.
@@ -19,10 +19,10 @@
 6. Place sample in magnetic rack for 5 min.
 7. Remove and discard all the supernatant.
 8. Remove sample from rack.
-9. Add 66.7 μl of Bead Washing Buffer and pipet up and down until beads are in a homogenous suspension.
+9. Add 66.7 μl of Bead Washing Buffer and pipette up and down until beads are in a homogenous suspension.
 10. Place the sample back in the magnetic rack for 5 min.
 11. Remove and discard all the supernatant.
-12. Add 16.7 μl of Elution Buffer and pipet up and down until beads are in a homogenous suspension.
+12. Add 16.7 μl of Elution Buffer and pipette up and down until beads are in a homogenous suspension.
 13. Incubate in thermocycler:
 
    |˚C | time|
@@ -31,15 +31,15 @@
    |25˚C | hold |
 
 14. Remove sample from thermocycler when it reaches 25˚ C and keep at room temp.
-15. Add 16.7 μl of Bead Binding Buffer and pipet up and down until beads are in a homogenous suspension.
+15. Add 16.7 μl of Bead Binding Buffer and pipette up and down until beads are in a homogenous suspension.
 16. Incubate at room temperature for 5 min.
 17. Place sample in magnetic separator for 5 min.
 18. Remove and discard all supernatant.
 19. Remove sample from rack.
-20. Add 66.7 μl of Bead Washing Buffer and pipet up and down until beads are in a homogenous suspension.
+20. Add 66.7 μl of Bead Washing Buffer and pipette up and down until beads are in a homogenous suspension.
 21. Place sample in magnetic separator for 5 min.
 22. Remove and discard all supernatant.
-23. Add 6.5 μl Elute, Prime, Fragment Mix and pipet up and down until beads are in a homogenous suspension.
+23. Add 6.5 μl Elute, Prime, Fragment Mix and pipette up and down until beads are in a homogenous suspension.
 24. Incubate in thermocycler (frag time can be between 1-8 mins, although median fragment size does not change significantly, only tail increases):
 
    |˚C | time|
@@ -106,11 +106,12 @@
 34. Incubate at room temperature for 15 min.
 35. Place on magnetic rack for 5 min.
 36. Remove and discard 45 μl of the supernatant.
-37. Keep sample in magnetic rack and add 1800 μl of 80% ethanol.
+37. Keep sample in magnetic rack and add 180 μl of 80% ethanol.
 38. Incubate for 30 seconds.  Remove and discard all supernatant.
-39. Repeat step 37 and 38 once more for a total of two washes.
-40. Add 6.7 μl Resuspension Buffer and pipet up and down until beads are in a homogenous suspension.
-41. Incubate at room temperature for 2 min.
+39. Repeat step 37 and 38 once more for a total of two washes, use a fine point tip to remove all ethanol after the second wash
+40. Dry at 30˚C to 2-3 mins.
+40. Add 6.7 μl Resuspension Buffer and pipette up and down until beads are in a homogenous suspension.
+41. Incubate at room temperature for 5 min.
 42. Place in magnetic rack for 5 min.
 43. Transfer 5.83 μl of the supernatant to a new 0.2 ml PCR tube (reduce volume by 0.83 ul if adding in-line control at next step).
 
@@ -156,8 +157,9 @@
 52. Remove and discard 26.5 μl of the supernatant.
 53. Keep sample in magnetic rack and add 180 μl of 80% ethanol.
 54. Incubate for 30 seconds.  Remove and discard all supernatant.
-55. Repeat steps 53 and 54 one more time.
-56. Add 18.7 μl Resuspension Buffer and pipet up and down and mix by pipetting up and down until beads are in a homogenous suspension.
+55. Repeat steps 53 and 54 one more time use a fine point tip to remove all ethanol after the second wash
+40. Dry at 30˚C to 2-3 mins.
+56. Add 18.7 μl Resuspension Buffer and pipette up and down and mix by pipetting up and down until beads are in a homogenous suspension.
 57. Incubate at room temperature for 5 min.
 58. Place in magnetic rack for 5 min.
 59. Transfer 16.7 μl of the supernatant to a new 0.2 ml PCR tube.
@@ -167,8 +169,9 @@
 63. Remove and discard 28.34 μl of the supernatant.
 64. Keep sample in magnetic rack and add 200 μl of 80% ethanol.
 65. Incubate for 30 seconds.  Remove and discard all supernatant.
-66. Repeat steps 64 and 65 one more time.
-67. Add 10.7 μl Resuspension Buffer and pipet up and down 10 times.
+66. Repeat steps 64 and 65 one more time use a fine point tip to remove all ethanol after the second wash
+40. Dry at 30˚C to 2-3 mins.
+67. Add 10.7 μl Resuspension Buffer and pipette up and down 10 times.
 68. Incubate at room temperature for 5 min.
 69. Place in magnetic rack for 5 min.
 70. Transfer 9.5 μl of the supernatant to a new 0.2 ml PCR tube.
@@ -228,9 +231,10 @@
 77. Remove and discard 28.3 μl of the supernatant.
 78. Keep sample in magnetic rack and add 200 μl of 80% ethanol.
 79. Incubate for 30 seconds.  Remove and discard all supernatant.
-80. Repeat steps 78 and 79 one more time.
+80. Repeat steps 78 and 79 one more time use a fine point tip to remove all ethanol after the second wash
+40. Dry at 30˚C to 2-3 mins.
 81. Let the beads dry at room temperature for 2 min.
-82. Add 11 μl Resuspension Buffer and pipet up and down 10 times.
+82. Add 11 μl Resuspension Buffer and pipette up and down 10 times.
 83. Incubate at room temperature for 2 min.
 84. Place in magnetic rack for 5 min.
 85. Transfer 9.8 μl of the supernatant to a new 1.5 ml PCR tube.
