@@ -52,6 +52,10 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 
 7.	Transfer the upper phase (~100ul) to a fresh tube.
 
+5. Add 200 ul of chloroform, shake vigorously and incubate at RT for 3 mins
+
+6. Centrifuge at 14,000 RCF for 10 mins at 4<sup>o</sup>C and transfer the upper aqueous phase to new tube (should recover ~100 ul)
+
 8.	Add 1 volume of cold isopropanol (~100ul) and 1/10 volume of 4M NaOAc, pH 5.2
   * For higher yield and sRNA recovery incubate overnight @ -20°C
   * Alternatively, incubate for 15 mins in -80°C freezer.
@@ -60,7 +64,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 
 10.	Rinse the pellet with 900uL of 70% ethanol, invert several times then centrifuge samples for 5 mins, 7,500 x g, at RT.  
 
-11.	Remove EtOH with pipette. Pulse spin and remove remaining EtOH. Air dry 5 ins RT.
+11.	Remove EtOH with pipette. Pulse spin and remove remaining EtOH. Air dry 5 mins RT.
 
 12.	Re-suspend in H<sub>2</sub>O or TRIS (eg 20uL).
 
