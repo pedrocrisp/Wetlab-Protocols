@@ -8,4 +8,6 @@
   
 3. Take the first primer pair and blast them on [bex-db](http://barleyflc.dna.affrc.go.jp/bexdb/blast.html), use blastn and use the database "fullLength_All", check for perfect matches to off targets
 
-4. 
+4. Ideally go to the [bex-db genome browser](http://barleyflc.dna.affrc.go.jp/gb2/gbrowse/IBSC_genome/?name=id:364208;dbid=annotation:database) and see if the clone is anchored to th genome (if it is there) and see if the primer span an exon junction (ideally) or if the amplicon includes an intron 
+  * If we can figure out a way to do this automatically that would be ideal
+  * Alternatively intron position could be checked first and specified as a region to include in the primer design step
