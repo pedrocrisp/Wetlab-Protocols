@@ -12,12 +12,14 @@ Maxi TURBO prep for high levels of DNA.
   * Add 1.0 uL TURBO DNase (2U).
   * Mix gently with pipette.
 
-|Component|50ul (up to 10ug TNA)| 100ul (up to 20ug TNA)|
+|Component|50ul (up to 10ug TNA*)| 100ul (up to 20ug TNA)|
 |:--|:--:|:--|
-|DNA [ug]| < 10ug| < 20ug|
+|TNA [ug]| < 10ug| < 20ug|
 |H<sub>2</sub>O| to 45 | to 90 |
 |10x buffer | 5 | 10|
 |TURBO DNase| 1.0 | 1.0 | 
+
+*This reaction will remove up to 2ug DNA
 
 3.	Incubate at 37°C for 30 mins
 
