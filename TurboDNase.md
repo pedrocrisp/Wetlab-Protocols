@@ -33,8 +33,10 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 
 |Reagent			|volume	|
 |:------------------------------|:------:|
-|AMPure XP bead solution	|90 μl	|
+|AMPure XP bead solution	|90* μl	|
 |RNA          	|50 μl	|
+
+*Beckmann advises that 41.4 ul of beads has bound up to 150ug DNA, although we have not tested the effect on % recovery as max capacity is approached.
 
 - Vigorously vortex tube and incubate at room temperature for 20 minutes.
 - Place tube in magnetic stand for 5 minutes or until solution clears, to capture the beads. After the suspension is clear, remove and discard supernatant. Do not disturb bead pellet.
