@@ -27,6 +27,6 @@ Trizol extraction for Arabidopsis in 1.5 ml tubes, Based on the Millar lab Trizo
   12. Add 1.0 ml of 75% ethanol and centrifuge at RT for 3 mins at 7500 RCF
   13. Remove supernatant with pipette, pulse spin and remove remaining supernatant with fine tip
   14. Air dry at RT for 5 mins until pellets start to become translucent
-  15. Add 50 ul RNAse free solvent (H<sub>2</sub>O or TE) and incubate at RT for 5 mins, mix with pipette and store at -20<sup>o</sup>C
+  15. Add 50 ul RNAse free solvent (H<sub>2</sub>O or TE) and incubate at RT for 5 mins, mix with pipette and store at -80<sup>o</sup>C
   
 3. For qPCR analysis proceed to DNase treatment.
