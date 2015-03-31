@@ -1,6 +1,6 @@
 # PARE-Truseq Library Preps v2.0
 
-Adapter from *[Gregory et. al., 2009](http://www.nature.com/nprot/journal/v4/n3/full/nprot.2009.8.html)* and *[Zhai et. al., 2014](http://www.sciencedirect.com/science/article/pii/S1046202313002375)*.
+Adapter from *[German et. al., 2009](http://www.nature.com/nprot/journal/v4/n3/full/nprot.2009.8.html)* and *[Zhai et. al., 2014](http://www.sciencedirect.com/science/article/pii/S1046202313002375)*.
 
 ## Prepare >75 ug total RNA
 Extract total RNA using TRIzol or other RNA extraction method. 
