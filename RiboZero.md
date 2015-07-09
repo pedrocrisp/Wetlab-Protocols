@@ -1,16 +1,16 @@
 # RiboZero for Illumina Truseq Stranded RNAseq Kit
 
 *Half reactions protocol*
+
 *Used when Ribo-Zero kit is purchased seperately, in combination with the Truseq mRNA kit (instead of the total RNA kit)*
 
 Adapted from Ribo-Zero Magnetic Kits Guide Rev A and TruSeq Stranded Total RNA Guide Rev E
 
 ## Prepare RNA
 1. Prepare 1 ug (or up to 2.5 ug) of DNase treated RNA and confirm quality using GXII or other capilary gel electrophoresis (eg Bioanalyzer or RNA gel + Qubit).
-  * *It is important to accuratly determine concentration for correct adjustment of rRNA removal solution ratio to sample*
  
 ## Prepare Beads
-1. Per reaction place 112.5 ul bead aliquit in RNase free tube/plate and place on magnet for 1 min or until solution clears
+1. Per reaction place 112.5 ul bead aliquot in RNase free tube/plate and place on magnet for 1 min or until solution clears
 2. Aspirate supertatant, remove from magnet and resuspend in 225 ul RNase free water.
 3. Repeat for a total of 2 washes
 4. Aspirate water and resuspend in 32.5 ul of Magnetic bead resuspension solution, vortex or pipette to homogonise.
@@ -50,9 +50,9 @@ Adapted from Ribo-Zero Magnetic Kits Guide Rev A and TruSeq Stranded Total RNA G
 8. Immediately place tubes in magnetic rack for 1 min.
 9. Remove 42.5 ul of supernatant and transfer to new tube.
 
-## Purify RNA: AMPure RNA Clean XP beads
+## Purify RNA and Frag
 
-  ** 1.6x AMPure **
+  ** 1.6x AMPure RNA Clean XP beads **
   
 *Note: use 70% ethanol for RNA beads*
 
@@ -78,4 +78,4 @@ Adapted from Ribo-Zero Magnetic Kits Guide Rev A and TruSeq Stranded Total RNA G
 25. Immediately place sample in magnetic rack for 5 min.
 26. Transfer 5.7 μl of the supernatant to a new 0.2 ml PCR tube.
 
-*Proceed to First Strand Synthesis in Truseq Stranded mRNA guide*
+*Proceed immediately to First Strand Synthesis in Truseq Stranded mRNA guide*
