@@ -1,6 +1,7 @@
-# RiboZero for Illumina RNAseq
+# RiboZero for Illumina Truseq Stranded RNAseq Kit
 
 *Half reactions protocol*
+*Used when Ribo-Zero kit is purchased seperately, in combination with the Truseq mRNA kit (instead of the total RNA kit)*
 
 Adapted from Ribo-Zero Magnetic Kits Guide Rev A and TruSeq Stranded Total RNA Guide Rev E
 
@@ -9,15 +10,12 @@ Adapted from Ribo-Zero Magnetic Kits Guide Rev A and TruSeq Stranded Total RNA G
   * *It is important to accuratly determine concentration for correct adjustment of rRNA removal solution ratio to sample*
  
 ## Prepare Beads
-2. Equilibrate magnegtic beads to room temperature, vortex, take 112.5 ul aliquots and wash twice.
-  1. Per reaction place 112.5 ul bead aliquit in RNase free tube/plate and place on magnet for 1 min or until solution clears
-  2. Aspirate supertatant, remove from magnet and resuspend in 225 ul RNase free water.
-  3. Repeat for a total of 2 washes
-  4. Aspirate water and resuspend in 32.5 ul of Magnetic bead resuspension solution, vortex or pipette to homogonise.
-    1. optional: add 0.5 ul of RiboGuard RNase Inhibitor
-  5. Store at RT 
-
-3. 
+1. Per reaction place 112.5 ul bead aliquit in RNase free tube/plate and place on magnet for 1 min or until solution clears
+2. Aspirate supertatant, remove from magnet and resuspend in 225 ul RNase free water.
+3. Repeat for a total of 2 washes
+4. Aspirate water and resuspend in 32.5 ul of Magnetic bead resuspension solution, vortex or pipette to homogonise.
+  1. optional: add 0.5 ul of RiboGuard RNase Inhibitor
+5. Store at RT 
 
 ## Binding
 1. In a 0.2 ml PCR tube combine:
@@ -52,4 +50,32 @@ Adapted from Ribo-Zero Magnetic Kits Guide Rev A and TruSeq Stranded Total RNA G
 8. Immediately place tubes in magnetic rack for 1 min.
 9. Remove 42.5 ul of supernatant and transfer to new tube.
 
-# Purify RNA
+## Purify RNA: AMPure RNA Clean XP beads
+
+  ** 1.6x AMPure **
+  
+*Note: use 70% ethanol for RNA beads*
+
+1. Add 68 μl of well-mixed RNA Clean XP beads and mix by pipetting up and down until beads are in a homogenous suspension.
+34. Incubate at room temperature for 15 min.
+35. Place on magnetic rack for 5 min.
+36. Remove and discard 109 μl of the supernatant.
+37. Keep sample in magnetic rack and add 180 μl of 70% ethanol.
+38. Incubate for 30 seconds.  Remove and discard all supernatant.
+39. Repeat wash steps once more for a total of two washes, use a fine point tip to remove all ethanol after the second wash
+40. Dry at 30˚C to 2-3 mins.
+40. Add 6.7 μl Resuspension Buffer and pipette up and down until beads are in a homogenous suspension.
+41. Incubate at room temperature for 5 min.
+42. Place in magnetic rack for 5 min.
+23. Add 6.5 μl Elute, Prime, Fragment Mix and pipette up and down until beads are in a homogenous suspension.
+24. Incubate in thermocycler (frag time can be between 1-8 mins, although median fragment size does not change significantly, only tail increases):
+
+   |˚C | time|
+   |:-:|:-:|
+   |94˚C | 7 min|
+   |4˚C | hold |
+
+25. Immediately place sample in magnetic rack for 5 min.
+26. Transfer 5.7 μl of the supernatant to a new 0.2 ml PCR tube.
+
+*Proceed to First Strand Synthesis in Truseq Stranded mRNA guide*
