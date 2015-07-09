@@ -3,7 +3,7 @@
   *This great idea was not my idea, reproduced from [Ethan Ford](http://ethanomics.wordpress.com/truseq-rna-library-preparation-kit-v2-using-one-third-the-reagents/) with modifications* 
 
 
-**PolyA select mRNA, fragment and primer for 1st strand synthesis**
+**PolyA select mRNA, fragment and prime for 1st strand synthesis**
 
 1. Dilute up to 1.3 μg total RNA in H<sub>2</sub>O to a final volume of 16.7 μl.
 2. Vortex RNA Purification Beads and add 16.7 μl to RNA sample.
