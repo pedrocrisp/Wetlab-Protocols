@@ -167,7 +167,7 @@
 61. Incubate at room temperature for 15 min.
 62. Place on magnetic rack for at least 5 min.
 63. Remove and discard 28.34 μl of the supernatant.
-64. Keep sample in magnetic rack and add 200 μl of 80% ethanol.
+64. Keep sample in magnetic rack and add 180 μl of 80% ethanol.
 65. Incubate for 30 seconds.  Remove and discard all supernatant.
 66. Repeat steps 64 and 65 one more time use a fine point tip to remove all ethanol after the second wash
 40. Dry at 30˚C to 2-3 mins.
@@ -229,15 +229,14 @@
 74. In a fresh tube, add and equal volume of well-mixed AMPure XP beads (probably 15.5 ul) to the PCR.
 76. Place on magnetic rack for at least 5 min.
 77. Remove and discard 28.3 μl of the supernatant.
-78. Keep sample in magnetic rack and add 200 μl of 80% ethanol.
+78. Keep sample in magnetic rack and add 180 μl of 80% ethanol.
 79. Incubate for 30 seconds.  Remove and discard all supernatant.
 80. Repeat steps 78 and 79 one more time use a fine point tip to remove all ethanol after the second wash
 40. Dry at 30˚C to 2-3 mins.
-81. Let the beads dry at room temperature for 2 min.
 82. Add 11 μl Resuspension Buffer and pipette up and down 10 times.
-83. Incubate at room temperature for 2 min.
+83. Incubate at room temperature for 5 min.
 84. Place in magnetic rack for 5 min.
-85. Transfer 9.8 μl of the supernatant to a new 1.5 ml PCR tube.
+85. Transfer 9.8 μl of the supernatant to a new PCR tube.
 
 
    **Quantify and pool**
