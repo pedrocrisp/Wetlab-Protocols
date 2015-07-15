@@ -219,7 +219,7 @@
 
     |step	|	1	|	2	|	3	|	4	|	5	|7	    |
     |:------|:--------------|:--------------|:--------------|:--------------|:--------------|:------|
-    |temp	|98		|98		|60		|72		|*Go to 2 x 34 times*|	4 |
+    |temp	|98		|98		|60		|72		|*Go to 2 x ~10 times*|	4 |
     |min	|0:30		|0:10		|0:30		|0:30		|		|hold|
 
 74. Take 1 ul and dilute into 9 ul water and run on GXII DNA-HS.  If cycle number is insufficient, run more cycles.  *Note that the upper maker progressively runs worse with each sample, seemingly due to the Illumina PCR buffer (runs fine after clean-up). This means that after the first few samples the reported conc/molarity is totally bogus, although the smears seem resonable relative to each other.*
