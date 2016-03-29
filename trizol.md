@@ -1,5 +1,5 @@
 # Pete's trizol RNA extraction: v1.1
-========
+
 Trizol extraction for Arabidopsis in 1.5 ml tubes, Based on the Millar lab Trizol protocol
 
 ----
