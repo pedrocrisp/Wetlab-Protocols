@@ -2,7 +2,6 @@
 
 Trizol extraction for Arabidopsis in 1.5 ml tubes, Based on the Millar lab Trizol protocol
 
-----
 ## Reagents
   - Trizol <sup>**Caution nasty do not get on your skin</sup>
   - Chloroform
