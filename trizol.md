@@ -31,9 +31,8 @@ Trizol extraction for Arabidopsis in 1.5 ml tubes, Based on the Millar lab Trizo
   
 For qPCR analysis proceed to DNase treatment.
 
-
- ## Back extraction protocol for DNA
-
+----
+## Back extraction protocol for DNA
 Source [ThermoFisher](https://www.thermofisher.com/au/en/home/references/protocols/nucleic-acid-purification-and-analysis/dna-extraction-protocols/tri-reagent-dna-protein-isolation-protocol.html)
 
 Prepare a back extraction buffer: 4 M guanidine thiocyanate, 50 mM sodium citrate and 1 M Tris (free base).
