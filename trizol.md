@@ -44,6 +44,7 @@ Take 150 ml of millipore water and dissolve
   -	add additional millipore water until volume is 250 ml
   -	autoclave
 
+DNA extraction
  1. Remove any remaining aqueous phase overlying the interphase.
  2. Add back extraction buffer to the interphase-organic phase mixture. Use 500 μl of back extraction buffer per 1 ml of TRI Reagent used for the initial homogenization.
  3. Vigorously mix the sample by inversion for 15 sec and incubate for 10 min at room temperature.
