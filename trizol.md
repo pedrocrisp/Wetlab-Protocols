@@ -37,6 +37,13 @@ Source [ThermoFisher](https://www.thermofisher.com/au/en/home/references/protoco
 
 Prepare a back extraction buffer: 4 M guanidine thiocyanate, 50 mM sodium citrate and 1 M Tris (free base).
 
+Take 150 ml of millipore water and dissolve
+  -	118.2 g of Guanidine Thiocyanate (FW 118.2)	= 4 M
+  -	3.68 g of Sodium Citrate NaCi (FW 294.1) 	= 50 mM
+  -	30.29 g of Tris (free base)Tris (FW 121.14) 	= 1M
+  -	add additional millipore water until volume is 250 ml
+  -	autoclave
+
  1. Remove any remaining aqueous phase overlying the interphase.
  2. Add back extraction buffer to the interphase-organic phase mixture. Use 500 μl of back extraction buffer per 1 ml of TRI Reagent used for the initial homogenization.
  3. Vigorously mix the sample by inversion for 15 sec and incubate for 10 min at room temperature.
