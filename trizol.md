@@ -35,13 +35,15 @@ For qPCR analysis proceed to DNase treatment.
 Source [ThermoFisher](https://www.thermofisher.com/au/en/home/references/protocols/nucleic-acid-purification-and-analysis/dna-extraction-protocols/tri-reagent-dna-protein-isolation-protocol.html)
 
 Prepare a back extraction buffer: 4 M guanidine thiocyanate, 50 mM sodium citrate and 1 M Tris (free base).
+  
+|		Reagent		|Final			|1x (250 mL)		|1x (50 mL)	|
+|:--------------|:---------:|:---------:|:---------:|
+|Guanidine Thiocyanate 	(FW 118.2)	|		4 M	|	118.2 g		| 23.64 g			|
+|Sodium Citrate NaCi (FW 294.1)			| 50 mM			| 3.68 g		|	0.736 g		|
+|Tris (free base)Tris (FW 121.14)			|1M		|30.29 g			|		6.058 g	|
+|DEPC H2O		|		| up to 250 mL			|		up to 50 mL	|
 
-Take 150 ml of millipore water and dissolve
-  -	118.2 g of Guanidine Thiocyanate (FW 118.2)	= 4 M
-  -	3.68 g of Sodium Citrate NaCi (FW 294.1) 	= 50 mM
-  -	30.29 g of Tris (free base)Tris (FW 121.14) 	= 1M
-  -	add additional millipore water until volume is 250 ml
-  -	autoclave
+*Autoclaving is likely fine, but will probably use unautoclaved or filter sterilised.*
 
 DNA extraction
  1. Remove any remaining aqueous phase overlying the interphase.
