@@ -47,11 +47,20 @@ DNA extraction
  1. Remove any remaining aqueous phase overlying the interphase.
  2. Add back extraction buffer to the interphase-organic phase mixture. Use 500 μl of back extraction buffer per 1 ml of TRI Reagent used for the initial homogenization.
  3. Vigorously mix the sample by inversion for 15 sec and incubate for 10 min at room temperature.
- 4. Centrifuge at 12,000 x g for 15 min at 4°C to separate the phases.
+ 4. Centrifuge at 12,000 x g for 15 min at 4<sup>o</sup>C to separate the phases.
  5. Transfer the upper, aqueous phase containing DNA to a clean tube and save the interphase and organic phase at 4°C for subsequent protein isolation.
  6. *(Optional) If the expected DNA yield is less than 20 μg, add 2–8 μl of acrylamide carrier to the aqueous phase and mix.*
  7. Add 400 μl of isopropanol per 1.0 ml of TRI Reagent used for the initial homogenization to precipitate DNA from the aqueous phase. Mix the sample by inversion and incubate for 5 min at room temperature.
- 8. Sediment the DNA by centrifugation at 12,000 x g for 5 min at 4–25°C and remove the supernatant.
+ 8. Sediment the DNA by centrifugation at 12,000 x g for 5 min at 4–25<sup>o</sup>C and remove the supernatant.
  9. Wash the DNA pellet with 1 ml of 75% ethanol. (Proceed with DNA Solubilization - *probably wont*)
  10. Dissolve DNA in water, 50-100 ul.
 
+----
+## Back extraction protocol for DNA II
+Source Maleszka Lab c/o Dave Hayward
+
+1. After removing the supernatant (containing the RNA), add a few volumes of ethanol to the rest, mix well and spin (5 min, 10,000 rpm, room temp). 
+2. Dissolve pellet on ~100 ul of NTE+ 0.5% SDS at 80 <sup>o</sup>C. 
+3. Extract with 1 vol of phenol:chloroform, spin at 10,000 rpm (room temperature) for 5 mins and collect the upper phase. 
+4. Add 2 volumes of absolute EtOH, mix and spin the precipitate for 5 min at 10,000 rpm. 
+5. Wash pellet with 75% EtOH, dissolve in 50 uL of TE at 65 <sup>o</sup>C. If the pellet is too big add more TE.
