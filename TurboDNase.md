@@ -50,7 +50,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 
 ## RNA recovery: Phenol:chloroform + precipitation
 
-5.	Add 100 ul of phenol-chloroform, mix by inverting or shaking until thoroughly mixed.
+5.	Add 100 ul (100 ul or equal volume which ever is greater) of phenol-chloroform (or Phenol:Chloroform:IAA), mix by inverting or shaking until thoroughly mixed.
 
 6.	Centrifuge at 14,000g for 10mins at 4°C.
 
@@ -63,6 +63,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 8.	Add 1 volume of cold isopropanol (~100ul) and 1/10 volume of 4M NaOAc, pH 5.2
   * For higher yield and sRNA recovery incubate overnight @ -20°C
   * Alternatively, incubate for 15 mins in -80°C freezer.
+  * Add glycoblue if yield is very low (no pellet visible)
 
 9.	Centrifuge samples for 20 mins, max g, at 4°C.  Remove supernatant with pipette.
 
