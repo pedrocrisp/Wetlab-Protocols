@@ -60,7 +60,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 
 6. Centrifuge at 14,000 RCF for 10 mins at 4<sup>o</sup>C and transfer the upper aqueous phase to new tube (should recover ~100 ul)
 
-8.	Add 1 volume of cold isopropanol (~100ul) and 1/10 volume of 4M NaOAc, pH 5.2
+8.	Add 1/10 volume of 3M NaOAc, pH 5.2 (to final conc 0.3M; ~7.5 ul 4M into 100 ul) then add 1 volume of cold isopropanol (~100ul) 
   * For higher yield and sRNA recovery incubate overnight @ -20°C
   * Alternatively, incubate for 15 mins in -80°C freezer.
   * Add glycoblue if yield is very low (no pellet visible)
@@ -72,4 +72,5 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 11.	Remove EtOH with pipette. Pulse spin and remove remaining EtOH. Air dry 5 mins RT.
 
 12.	Re-suspend in H<sub>2</sub>O or TRIS (eg 20uL).
+
 
