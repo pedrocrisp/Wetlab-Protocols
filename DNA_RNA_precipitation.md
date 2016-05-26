@@ -57,35 +57,38 @@ Ethanol precipitation is a commonly used technique for concentrating and de-salt
 
 The basic procedure is that salt and ethanol are added to the aqueous solution, which forces the precipitation of nucleic acid nucleic acids out of solution. After precipitation the nucleic acids can then be separated from the rest of the solution by centrifugation. The pellet is washed in cold 70% ethanol then after a further centrifugation step the ethanol is removed, and the nucleic acid pellet is allowed to dry before being resuspended in clean aqueous buffer. So how does this work?
 
-ethanol precipitation is all about solubility
-
-Ethanol precipitation of nucleic acids is all about solubility…
+## Ethanol precipitation of nucleic acids is all about solubility…
 
 First we need to know why nucleic acids are soluble in water. Water is a polar molecule – it has a partial negative charge near the oxygen atom due the unshared pairs of electrons, and partial positive charges near the hydrogen atoms (see the diagram on the right).
 
 Because of these charges, polar molecules, like DNA or RNA, can interact electrostatically with the water molecules, allowing them to easily dissolve in water. Polar molecules can therefore be described as hydrophilic and non-polar molecules, which can’t easily interact with water molecules, are hydrophobic. Nucleic acids are hydrophilic due to the negatively charged phosphate (PO3-) groups along the sugar phosphate backbone.
-The role of the salt in ethanol precipitation…
+
+## The role of the salt in ethanol precipitation…
 
 Ok, so back to the protocol. The role of the salt in the protocol is to neutralize the charges on the sugar phosphate backbone. A commonly used salt is sodium acetate. In solution, sodium acetate breaks up into Na+ and [CH3COO]-. The positively charged sodium ions neutralize the negative charge on the PO3- groups on the nucleic acids, making the molecule far less hydrophilic, and therefore much less soluble in water.
-The role of the ethanol…
+
+## The role of the ethanol…
 
 The electrostatic attraction between the Na+ ions in solution and the PO3- ions are dictated by Coulomb’s Law, which is affected by the dielectric constant of the solution. Water has a high dielectric constant, which makes it fairly difficult for the Na+ and PO3- to come together. Ethanol on the other hand has a much lower dielectric constant, making it much easier for Na+ to interact with the PO3-, shield it’s charge and make the nucleic acid less hydrophilic, causing it to drop out of solution.
-The role of temperature in ethanol precipitation…
+
+## The role of temperature in ethanol precipitation…
 
 Incubation of the nucleic acid/salt/ethanol mixture at low temperatures (e.g. -20 or -80C) is commonly cited in protocols as necessary in protocols. However, according to Maniatis et al (Molecular Cloning, A Laboratory Manual 2nd Edition… 2nd edition?? – I need to get a newer version!), this is not required, as nucleic acids at concentrations as low as 20ng/mL will precipitate at 0-4C so incubation for 15-30 minutes on ice is sufficient.
-The wash step with 70% ethanol…
+
+## The wash step with 70% ethanol…
 
 This step is to wash any residual salt away from the pelleted DNA.
-A few tips on ethanol precipitation…
 
-    Choice of salt
-        Use Sodium acetate (0.3M final conc, pH 5.2) for routine DNA precipitations
-        Use Sodium chloride (0,2M final conc) for DNA samples containing SDS since NaCl keeps SDS soluble in 70% ethanol so it won’t precipitate with the DNA.
-        Use Lithium Chloride (0.8M final conc) for RNA. This is because 2.5-3 volumes of ethanol should be used for RNA precipitation and LiCl is more soluble in ethanol than NaAc so will not precipitate, but beware – chloride ions will inhibit protein synthesis and DNA polymerase so LiCl is no good for RNA preps for in vitro translation or reverse transcription. In these cases, use NaAc.
-        Use Ammonium acetate (2M final conc) for the removal of dNTPs, but do not use for preparation of DNA for T4 polynucleotide kinase reactions as ammonium ions inhibit the enzyme.
+## A few tips on ethanol precipitation…
 
-    To increase the yield in precipitations of low concentration or small nucleic acid pieces (less than 100 nucleotides)
-        Add MgCl2 to a final concentration of 0.01M
-        Increase the time of incubation ice before centrifugation to 1 hour.
+  1. Choice of salt
+    - Use Sodium acetate (0.3M final conc, pH 5.2) for routine DNA precipitations
+    - Use Sodium chloride (0,2M final conc) for DNA samples containing SDS since NaCl keeps SDS soluble in 70% ethanol so it won’t precipitate with the DNA.
+    - Use Lithium Chloride (0.8M final conc) for RNA. This is because 2.5-3 volumes of ethanol should be used for RNA precipitation and LiCl is more soluble in ethanol than NaAc so will not precipitate, but beware – chloride ions will inhibit protein synthesis and DNA polymerase so LiCl is no good for RNA preps for in vitro translation or reverse transcription. In these cases, use NaAc.
+    - Use Ammonium acetate (2M final conc) for the removal of dNTPs, but do not use for preparation of DNA for T4 polynucleotide kinase reactions as ammonium ions inhibit the enzyme.
+
+  2. To increase the yield in precipitations of low concentration or small nucleic acid pieces (less than 100 nucleotides)
+    - Add MgCl2 to a final concentration of 0.01M
+    - Increase the time of incubation ice before centrifugation to 1 hour.
 
 This explanation should bring  you up to speed on how the ethanol precipitation works. If you want to learn more about the ins and outs of ethanol precipitation and other DNA cleanup approaches, you might want to check out these…
