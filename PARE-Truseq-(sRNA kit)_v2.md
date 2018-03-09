@@ -99,9 +99,9 @@ Stopping point – store at -20<sup>o</sup>C
 ---	
 	
 
-##PCRs
+## PCRs
 Run a long QC PCR and a short PCR to amplify the template for MmeI. QC PCR takes 4.5 hours. 
-###QC PCR
+### QC PCR
 
 |				|Final			|1x (ul)		| __x			|
 |:--------------|:---------:|:---------:|:---------:|
@@ -125,7 +125,7 @@ PCR cycling
 Run 2 ul on GXII 5k chip. Or on a 1.5% agarose gel.  
 Should get a smear with distinct bands under 1 kb and above/around 3kb.
  
-###Short PCR
+### Short PCR
 
 |				|Final			|1x (ul)		| __x			|
 |:--------------|:---------:|:---------:|:---------:|
@@ -186,7 +186,7 @@ Note: Mme1 will begin cleaving on ice and at 50°C
 - Let cool at RT (do NOT place on ice); 
 - Prepare Duplex Adapter during heat kill step. 
 
-##Ligation of 3’-double-strand DNA Adapter
+## Ligation of 3’-double-strand DNA Adapter
 
 Make freshly prepared duplex adaptor by annealing 20% more oligo than needed (so that there is enough for the ligation master mix), eg for 9 samples use 11ul of each:
 
@@ -200,7 +200,7 @@ Make freshly prepared duplex adaptor by annealing 20% more oligo than needed (so
 - Slow cool down to RT by stepping temp down 5°C every 30sec (0.1°C /s to 25°C).  (~18min cycle)
 - Keep at RT. 
 
-##Set up duplex ligation:
+## Set up duplex ligation:
 
 |Reagent			|volume	|___x|
 |:------------------------------|:------|:--:|
@@ -240,28 +240,28 @@ Samples are not yet indexed therefore preferably leave spaces between samples, a
 
 - Add 5x Biorad loading dye (GLB) to samples, max volume is 25 ul for 1.0mm gel
 
-####Run Gel:
+#### Run Gel:
 
 - 180 V
 - ~50 mins until bromo blue just above bottom of gel
 - Add 73 bp marker (5 ul) (ELIP2 is PCR product) Not needed really
 - Add 0.25ug Invitrogen 10bp ladder (0.25ul into 5 ul H<sub>2</sub>O + 2ul GLB) 
 
-####Stain Gel:
+#### Stain Gel:
 
 - Stain 5 mins in 100ml H<sub>2</sub>O + 10ul EtBr (final – 1mg/ml), rinse twice in MQ H<sub>2</sub>O
 Cut bands:
 - Align sterile razor with the 60 and 70 bp markers and cut to capture the band corresponding to the ligation product (63bp); avoid adapter dimers (44bp) and place slices in shredder tubes.
 
 
-###Gel Purification of ligation:
+### Gel Purification of ligation:
 
-####Assemble gel shredder tubes: 
+#### Assemble gel shredder tubes: 
 
 - Make 3 small holes in the bottom of a 0.5ml tube with a fine gauge syringe (eg 25 G - 0.5mm), large gauges with make it hard to pipette gel debris later.
 - Place shredder in 2ml low bind tube (2ml for better mixing of debris)
 
-####Shred:
+#### Shred:
 
 - Add gel slice and spin at max rcf for 2 mins, 
   - After spin small debris that get stuck in shredder can be tapped out into collection tube.
@@ -273,7 +273,7 @@ Cut bands:
 
 ---
 
-####Precipitate and recover DNA:
+#### Precipitate and recover DNA:
 *Put 100% ethanol in the -80°C to 10 mins if you forgot yesterday…*
 - Add gel debris slurry to Spin-X 0.45 uM spin filter, and spin 2 mins max speed 4°C
 - Keep flow-through and add:
@@ -288,7 +288,7 @@ Cut bands:
 - Re-suspend in 31ul of 10mM Tris pH 8.5
 
  
-##Pilot PCR – ½ reactions
+## Pilot PCR – ½ reactions
 
 Use 14 ul from 2 or more samples, but not all samples to test PCR:
 Use 14 ul of the ligation to determine the optimal number of PCR cycles needed to amplify library to around 10-20nM (need at least 2nM after PCR clean-up for clustering). Use a couple of samples e.g. one of each replicate group (not all samples in case further optimization is needed).  Start with 10-15 cycles, which should be sufficient (less for RNA decay mutants), use the PAGE purification of the ligation as a guide, if the ligation band was visible, 10 cycles should suffice. 
@@ -320,50 +320,50 @@ PCR cycling
 
 Run 2 ul on GXII HS-DNA chip. 
 
-##Final PCR
+## Final PCR
 Repeat PCR conditions as per pilot with optimized cycle number. 
 
-##AMPure XP (1.7x) purify and concentrate final library
+## AMPure XP (1.7x) purify and concentrate final library
 *Note: original protocol used 6% native PAGE at this step, beads work great and are much more convinent*
 
 AMPure purify PCR as previously. Can pool either beofre or after AMPure step.  Note that it is reccommended that each batch of AMPure XP beads are tested to calibrate the sweet spot to recover the 128bp library while avoiding any adapter dimers that may appear at around 80bp and below, for this batch 1.7x recovered 60% of the 130bp ladder band while less than 10% of the 80bp band was recovered and no adapter dimers or primers were detectable in the libraries after AMPure cleaning the final PCR.
 
 ![alt text](https://github.com/pedrocrisp/Wetlab-Protocols/blob/master/10bp_ladder_bead_test.png?raw=true "10bp ladder AMPure bead test")
 
-##Reagents
-###Oligos
+## Reagents
+### Oligos
 
-####5′-PARE RNA adaptor 
+#### 5′-PARE RNA adaptor 
 5′-GUUCAGAGUUCUACAGUCCGAC-3′ 
 
-####Target RT-primer: 
+#### Target RT-primer: 
 5'-CGA GCA CAG AAT TAA TAC GAC TTT TTT TTT TTT TTT TTT-3'
 
-####Short PCR primer:
+#### Short PCR primer:
 5′-adapter primer 5′-GTTCAGAGTTCTACAGTCCGAC-3′
 
 3′-adapter primer 5′-CGAGCACAGAATTAATACGACT-3′
 
-####dsDNA adapter (PARE TruSeq Duplex) (PAGE purified): 
+#### dsDNA adapter (PARE TruSeq Duplex) (PAGE purified): 
 *dsDNA_2_Top: 5' Phos-TGG AAT TCT CGG GTG CCA AGG
 
 dsDNA_2_Bottom:  5'-CCT TGG CAC CCG AGA ATT CCA NN
 
 *note that Jixan Zhai’s published TruSeq protocol does not have the 5’ phosphate, perhaps this helps to minimize duplex self-ligation.  That said; I only need ~8 cycles for a half reaction at the final PCR, where as Jixan reports 15 cycle final PCR… 
 
-####final PCR primer (P2 sRNA long primer aka “old PARE primer)
+#### final PCR primer (P2 sRNA long primer aka “old PARE primer)
 5': AATGATACGGCGACCACCGACAGGTTCAGAGTTCTACAGTC
 
-####Truseq small RNA kit primers (eg from #RS-200-0012):
+#### Truseq small RNA kit primers (eg from #RS-200-0012):
 Truseq 3' sRNA primer (RPI 1-24), indices 1~24
 
-####PARE TruSeqV2 read primer:
+#### PARE TruSeqV2 read primer:
 5’ – CCACCGACAGGTTCAGAGTTCTACAGTCCGAC – 3’
 
 “I would recommend PAGE purification, it's a small price to pay when considering the cost of Illumina sequencing in both time and $$. I resuspend to 100uM in TE, aliquot, then dilute to 500nM (1:200) for use. This is the standard procedure that Illumina uses for their sequencing primers.” [Brewster Kingham]
 
 
-##Reagents
+## Reagents
 
 |VENDOR	|Product	|CAT#	|Unit	|UNIT AUD$|
 |:--|:--|:--|:--|:--|
