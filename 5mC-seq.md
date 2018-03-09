@@ -1,8 +1,8 @@
-#MethylC-seq library preps for Illumina Sequencing v2.6
+# MethylC-seq library preps for Illumina Sequencing v2.6
 
 *protocol from Lister Lab Dec, 2013*
 
-##Fragment gDNA
+## Fragment gDNA
 
 1. Start with 1-2 ug gDNA (use 1ug of fragmented DNA in library prep)
 2. Prepare unmethylated phage DNA stock at 10 ng/ul and/or 2.5ng/ul, spike in 5ng (0.5% w/w).
@@ -15,7 +15,7 @@
 5. Run 10ul on a 1% gel (~120v x 30 mins) to check for smear from ~100-500bp
  
 
-###Clean up fragmented DNA
+### Clean up fragmented DNA
 
 1. MinElute PCR clean as per manual
 2. ELute twice with 18ul EB for a total 36 ul elution
@@ -34,13 +34,13 @@
 
 Mix tubes gently, spin down briefly and incubate at RT for 45 mins
 
-###Clean-up Repaired DNA
+### Clean-up Repaired DNA
 
 1. MinElute PCR clean as per manual
 2. ELute twice with 17ul EB for a total 34 ul elution
 3. Transfer 32ul for A-tailing
 
-##A-tail: add 'A' over-hang to 3' ends
+## A-tail: add 'A' over-hang to 3' ends
 
 | 		| 1x (ul)	| __x	|
 |:--		|:-:		|:-:	|
@@ -71,7 +71,7 @@ Add the following to a new non-stick, nuclease-free 0.2 ml PCR tube, strip or pl
 - Place the tube in the magnetic stand for at least 2 minute to allow complete capture of the beads. When suspension is clear, transfer 41.5 ul of the library-containing supernatant to a new tube.
 
 
-##Ligate methylated adapters - Bioo Scientific NEXTflex
+## Ligate methylated adapters - Bioo Scientific NEXTflex
 
 | 			| 1x (ul)	| __x	|
 |:--			|:-:		|:-:	|
